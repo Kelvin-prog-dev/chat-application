@@ -1,0 +1,48 @@
+2026-10-19 10:50:27,875 [server_T_A] INFO: Server T_A starting on 127.0.0.1:19901
+2026-10-19 10:50:27,879 [server_T_A] INFO: Listening for clients on port 19901…
+2026-10-19 10:50:27,879 [server_T_A] INFO: Connected to peer 127.0.0.1:19902
+2026-10-19 10:50:27,880 [server_T_A] INFO: New connection from ('127.0.0.1', 53834)
+2026-10-19 10:50:27,881 [server_T_A] WARNING: Peer 127.0.0.1:19902 disconnected
+2026-10-19 10:50:28,485 [server_T_A] INFO: New connection from ('127.0.0.1', 53836)
+2026-10-19 10:50:28,486 [server_T_A] INFO: 'tc01_user' joined (server T_A)
+2026-10-19 10:50:28,488 [server_T_A] INFO: 'tc01_user' left (server T_A)
+2026-10-19 10:50:59,422 [server_T_A] INFO: Server T_A starting on 127.0.0.1:19901
+2026-10-19 10:50:59,425 [server_T_A] INFO: Listening for clients on port 19901…
+2026-10-19 10:50:59,426 [server_T_A] INFO: New connection from ('127.0.0.1', 53857)
+2026-10-19 10:50:59,930 [server_T_A] INFO: Connected to peer 127.0.0.1:19902
+2026-10-19 10:50:59,934 [server_T_A] WARNING: Peer 127.0.0.1:19902 disconnected
+2026-10-19 10:50:59,940 [server_T_A] INFO: New connection from ('127.0.0.1', 53859)
+2026-10-19 10:50:59,941 [server_T_A] INFO: 'tc01_user' joined (server T_A)
+2026-10-19 10:50:59,942 [server_T_A] INFO: 'tc01_user' left (server T_A)
+2026-10-19 10:50:59,942 [server_T_A] INFO: New connection from ('127.0.0.1', 53860)
+2026-10-19 10:50:59,943 [server_T_A] INFO: 'tc02_alice' joined (server T_A)
+2026-10-19 10:51:00,452 [server_T_A] INFO: New connection from ('127.0.0.1', 53861)
+2026-10-19 10:51:00,454 [server_T_A] INFO: 'tc02_bob' joined (server T_A)
+2026-10-19 10:51:01,474 [server_T_A] INFO: 'tc02_alice' left (server T_A)
+2026-10-19 10:51:01,475 [server_T_A] INFO: 'tc02_bob' left (server T_A)
+2026-10-19 10:51:01,477 [server_T_A] INFO: New connection from ('127.0.0.1', 53863)
+2026-10-19 10:51:01,488 [server_T_A] INFO: 'tc03_sender' joined (server T_A)
+2026-10-19 10:51:02,035 [server_T_A] INFO: New connection from ('127.0.0.1', 53864)
+2026-10-19 10:51:02,050 [server_T_A] INFO: 'tc03_receiver' joined (server T_A)
+2026-10-19 10:51:02,562 [server_T_A] INFO: New connection from ('127.0.0.1', 53866)
+2026-10-19 10:51:02,586 [server_T_A] INFO: 'tc03_bystander' joined (server T_A)
+2026-10-19 10:51:04,439 [server_T_A] INFO: New connection from ('127.0.0.1', 53868)
+2026-10-19 10:51:04,937 [server_T_A] INFO: Connected to peer 127.0.0.1:19902
+2026-10-19 10:51:04,941 [server_T_A] WARNING: Peer 127.0.0.1:19902 disconnected
+2026-10-19 10:51:05,429 [server_T_A] INFO: 'tc03_sender' left (server T_A)
+2026-10-19 10:51:05,430 [server_T_A] INFO: 'tc03_bystander' left (server T_A)
+2026-10-19 10:51:05,430 [server_T_A] INFO: 'tc03_receiver' left (server T_A)
+2026-10-19 10:51:05,432 [server_T_A] INFO: New connection from ('127.0.0.1', 53870)
+2026-10-19 10:51:05,433 [server_T_A] INFO: 'tc04_alice' joined (server T_A)
+2026-10-19 10:51:05,949 [server_T_A] INFO: New connection from ('127.0.0.1', 53872)
+2026-10-19 10:51:05,951 [server_T_A] INFO: 'tc04_bob' joined (server T_A)
+2026-10-19 10:51:07,467 [server_T_A] INFO: 'tc04_alice' left (server T_A)
+2026-10-19 10:51:07,467 [server_T_A] INFO: 'tc04_bob' left (server T_A)
+2026-10-19 10:51:07,468 [server_T_A] INFO: New connection from ('127.0.0.1', 53875)
+2026-10-19 10:51:07,470 [server_T_A] INFO: 'tc05_dup' joined (server T_A)
+2026-10-19 10:51:07,471 [server_T_A] INFO: New connection from ('127.0.0.1', 53876)
+2026-10-19 10:51:07,476 [server_T_A] INFO: 'tc05_dup' left (server T_A)
+2026-10-19 10:51:07,476 [server_T_A] INFO: 'tc05_dup' left (server T_A)
+2026-10-19 10:51:07,477 [server_T_A] INFO: New connection from ('127.0.0.1', 53877)
+2026-10-19 10:51:07,480 [server_T_A] INFO: 'tc06_failover' joined (server T_A)
+2026-10-19 10:51:08,288 [server_T_A] INFO: 'tc06_failover' left (server T_A)
