@@ -59,7 +59,7 @@ def recv_msg(sock, timeout=3):
 
 
 def drain(sock, timeout=0.5):
-    """Read and discard all pending messages."""
+    """Read and discard  pending messages."""
     msgs = []
     while True:
         m = recv_msg(sock, timeout=timeout)
