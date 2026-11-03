@@ -189,3 +189,2287 @@
 2026-10-20 11:16:02,945 [server_B] INFO: Connected to peer 127.0.0.1:9001
 2026-10-20 11:16:02,946 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
 2026-10-20 11:16:04,437 [server_B] INFO: New connection from ('127.0.0.1', 49955)
+2026-11-03 09:47:44,278 [server_B] INFO: Server B starting on 127.0.0.1:9002
+2026-11-03 09:47:44,287 [server_B] INFO: Listening for clients on port 9002…
+2026-11-03 09:47:44,288 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:47:44,317 [server_B] INFO: New connection from ('127.0.0.1', 61761)
+2026-11-03 09:47:44,323 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:47:49,328 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:47:49,338 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:47:49,348 [server_B] INFO: New connection from ('127.0.0.1', 61771)
+2026-11-03 09:47:54,355 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:47:54,356 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:47:54,371 [server_B] INFO: New connection from ('127.0.0.1', 61776)
+2026-11-03 09:47:59,357 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:47:59,387 [server_B] INFO: New connection from ('127.0.0.1', 61789)
+2026-11-03 09:47:59,520 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:04,468 [server_B] INFO: New connection from ('127.0.0.1', 61810)
+2026-11-03 09:48:04,556 [server_B] INFO: 'vokeh' joined (server B)
+2026-11-03 09:48:04,773 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:48:04,808 [server_B] INFO: New connection from ('127.0.0.1', 61812)
+2026-11-03 09:48:05,167 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:10,333 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:48:10,334 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:10,383 [server_B] INFO: New connection from ('127.0.0.1', 61858)
+2026-11-03 09:48:14,256 [server_B] INFO: 'vokeh' left (server B)
+2026-11-03 09:48:15,335 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:48:15,336 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:15,386 [server_B] INFO: New connection from ('127.0.0.1', 61862)
+2026-11-03 09:48:19,278 [server_B] INFO: New connection from ('127.0.0.1', 61863)
+2026-11-03 09:48:19,282 [server_B] INFO: 'vokeh' joined (server B)
+2026-11-03 09:48:20,338 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:48:20,348 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:20,396 [server_B] INFO: New connection from ('127.0.0.1', 61867)
+2026-11-03 09:48:24,547 [server_B] INFO: 'vokeh' left (server B)
+2026-11-03 09:48:25,349 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:48:25,350 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:25,401 [server_B] INFO: New connection from ('127.0.0.1', 61872)
+2026-11-03 09:48:29,568 [server_B] INFO: New connection from ('127.0.0.1', 61881)
+2026-11-03 09:48:29,570 [server_B] INFO: 'vokeh' joined (server B)
+2026-11-03 09:48:30,352 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:48:30,353 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:30,409 [server_B] INFO: New connection from ('127.0.0.1', 61888)
+2026-11-03 09:48:34,602 [server_B] INFO: 'vokeh' left (server B)
+2026-11-03 09:48:35,360 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:48:35,366 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:35,432 [server_B] INFO: New connection from ('127.0.0.1', 61913)
+2026-11-03 09:48:39,629 [server_B] INFO: New connection from ('127.0.0.1', 61918)
+2026-11-03 09:48:39,665 [server_B] INFO: 'vokeh' joined (server B)
+2026-11-03 09:48:40,367 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:48:40,382 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:40,447 [server_B] INFO: New connection from ('127.0.0.1', 61920)
+2026-11-03 09:48:44,695 [server_B] INFO: 'vokeh' left (server B)
+2026-11-03 09:48:45,384 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:48:45,386 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:45,451 [server_B] INFO: New connection from ('127.0.0.1', 61924)
+2026-11-03 09:48:49,707 [server_B] INFO: New connection from ('127.0.0.1', 61927)
+2026-11-03 09:48:49,715 [server_B] INFO: 'vokeh' joined (server B)
+2026-11-03 09:48:50,395 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:48:50,408 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:50,465 [server_B] INFO: New connection from ('127.0.0.1', 61929)
+2026-11-03 09:48:50,590 [server_B] INFO: 'vokeh' left (server B)
+2026-11-03 09:48:55,414 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:48:55,416 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:48:55,474 [server_B] INFO: New connection from ('127.0.0.1', 61956)
+2026-11-03 09:49:00,422 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:00,427 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:00,486 [server_B] INFO: New connection from ('127.0.0.1', 61958)
+2026-11-03 09:49:05,430 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:05,438 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:05,492 [server_B] INFO: New connection from ('127.0.0.1', 61963)
+2026-11-03 09:49:10,440 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:10,443 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:10,495 [server_B] INFO: New connection from ('127.0.0.1', 61966)
+2026-11-03 09:49:15,445 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:15,451 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:15,503 [server_B] INFO: New connection from ('127.0.0.1', 61968)
+2026-11-03 09:49:20,454 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:20,456 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:20,508 [server_B] INFO: New connection from ('127.0.0.1', 61975)
+2026-11-03 09:49:25,458 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:25,460 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:25,511 [server_B] INFO: New connection from ('127.0.0.1', 61977)
+2026-11-03 09:49:30,463 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:30,466 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:30,517 [server_B] INFO: New connection from ('127.0.0.1', 61980)
+2026-11-03 09:49:35,468 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:35,472 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:35,522 [server_B] INFO: New connection from ('127.0.0.1', 61985)
+2026-11-03 09:49:40,474 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:40,476 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:40,528 [server_B] INFO: New connection from ('127.0.0.1', 61990)
+2026-11-03 09:49:45,479 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:45,485 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:45,535 [server_B] INFO: New connection from ('127.0.0.1', 61992)
+2026-11-03 09:49:50,487 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:50,497 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:50,539 [server_B] INFO: New connection from ('127.0.0.1', 61994)
+2026-11-03 09:49:55,500 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:49:55,502 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:49:55,544 [server_B] INFO: New connection from ('127.0.0.1', 61997)
+2026-11-03 09:50:00,507 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:00,511 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:00,549 [server_B] INFO: New connection from ('127.0.0.1', 61999)
+2026-11-03 09:50:05,513 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:05,516 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:05,553 [server_B] INFO: New connection from ('127.0.0.1', 62002)
+2026-11-03 09:50:10,518 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:10,521 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:10,559 [server_B] INFO: New connection from ('127.0.0.1', 62005)
+2026-11-03 09:50:15,524 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:15,528 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:15,565 [server_B] INFO: New connection from ('127.0.0.1', 62007)
+2026-11-03 09:50:20,531 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:20,534 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:20,578 [server_B] INFO: New connection from ('127.0.0.1', 62009)
+2026-11-03 09:50:25,537 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:25,541 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:25,582 [server_B] INFO: New connection from ('127.0.0.1', 62011)
+2026-11-03 09:50:30,543 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:30,545 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:30,587 [server_B] INFO: New connection from ('127.0.0.1', 62013)
+2026-11-03 09:50:35,553 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:35,558 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:35,594 [server_B] INFO: New connection from ('127.0.0.1', 62015)
+2026-11-03 09:50:40,562 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:40,567 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:40,616 [server_B] INFO: New connection from ('127.0.0.1', 62017)
+2026-11-03 09:50:45,573 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:45,576 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:45,711 [server_B] INFO: New connection from ('127.0.0.1', 62019)
+2026-11-03 09:50:50,583 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:50,586 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:50,717 [server_B] INFO: New connection from ('127.0.0.1', 62021)
+2026-11-03 09:50:55,590 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:50:55,594 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:50:55,723 [server_B] INFO: New connection from ('127.0.0.1', 62023)
+2026-11-03 09:51:00,598 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:00,601 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:00,727 [server_B] INFO: New connection from ('127.0.0.1', 62025)
+2026-11-03 09:51:05,604 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:05,605 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:05,737 [server_B] INFO: New connection from ('127.0.0.1', 62029)
+2026-11-03 09:51:10,607 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:10,608 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:10,742 [server_B] INFO: New connection from ('127.0.0.1', 62041)
+2026-11-03 09:51:15,614 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:15,617 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:15,750 [server_B] INFO: New connection from ('127.0.0.1', 62048)
+2026-11-03 09:51:20,621 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:20,625 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:20,755 [server_B] INFO: New connection from ('127.0.0.1', 62050)
+2026-11-03 09:51:25,626 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:25,629 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:25,837 [server_B] INFO: New connection from ('127.0.0.1', 62052)
+2026-11-03 09:51:30,630 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:30,632 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:30,851 [server_B] INFO: New connection from ('127.0.0.1', 62055)
+2026-11-03 09:51:35,633 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:35,635 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:35,860 [server_B] INFO: New connection from ('127.0.0.1', 62059)
+2026-11-03 09:51:40,638 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:40,640 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:40,863 [server_B] INFO: New connection from ('127.0.0.1', 62061)
+2026-11-03 09:51:45,642 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:45,644 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:45,866 [server_B] INFO: New connection from ('127.0.0.1', 62063)
+2026-11-03 09:51:50,646 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:50,649 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:50,874 [server_B] INFO: New connection from ('127.0.0.1', 62067)
+2026-11-03 09:51:55,654 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:51:55,744 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:51:55,921 [server_B] INFO: New connection from ('127.0.0.1', 62071)
+2026-11-03 09:52:00,796 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:00,810 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:00,961 [server_B] INFO: New connection from ('127.0.0.1', 62078)
+2026-11-03 09:52:05,813 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:05,814 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:05,964 [server_B] INFO: New connection from ('127.0.0.1', 62085)
+2026-11-03 09:52:10,816 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:10,841 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:10,975 [server_B] INFO: New connection from ('127.0.0.1', 62090)
+2026-11-03 09:52:15,849 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:16,015 [server_B] INFO: New connection from ('127.0.0.1', 62108)
+2026-11-03 09:52:16,207 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:21,215 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:21,222 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:21,340 [server_B] INFO: New connection from ('127.0.0.1', 62132)
+2026-11-03 09:52:26,225 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:26,376 [server_B] INFO: New connection from ('127.0.0.1', 62157)
+2026-11-03 09:52:26,400 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:31,405 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:31,406 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:31,455 [server_B] INFO: New connection from ('127.0.0.1', 62165)
+2026-11-03 09:52:36,407 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:36,440 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:36,458 [server_B] INFO: New connection from ('127.0.0.1', 62171)
+2026-11-03 09:52:41,454 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:41,473 [server_B] INFO: New connection from ('127.0.0.1', 62211)
+2026-11-03 09:52:41,553 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:46,635 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:46,755 [server_B] INFO: New connection from ('127.0.0.1', 62239)
+2026-11-03 09:52:46,850 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:51,919 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:51,926 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:52,096 [server_B] INFO: New connection from ('127.0.0.1', 62261)
+2026-11-03 09:52:56,930 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:52:56,932 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:52:57,277 [server_B] INFO: New connection from ('127.0.0.1', 62270)
+2026-11-03 09:53:01,933 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:53:01,966 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:53:02,337 [server_B] INFO: New connection from ('127.0.0.1', 62278)
+2026-11-03 09:53:06,968 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:53:06,975 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:53:07,344 [server_B] INFO: New connection from ('127.0.0.1', 62295)
+2026-11-03 09:53:11,979 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:53:11,982 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:53:12,347 [server_B] INFO: New connection from ('127.0.0.1', 62304)
+2026-11-03 09:53:16,983 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:53:16,988 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:53:17,354 [server_B] INFO: New connection from ('127.0.0.1', 62309)
+2026-11-03 09:53:21,990 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:53:21,992 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:53:22,359 [server_B] INFO: New connection from ('127.0.0.1', 62315)
+2026-11-03 09:53:26,994 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:53:27,277 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:53:27,362 [server_B] INFO: New connection from ('127.0.0.1', 62322)
+2026-11-03 09:53:32,375 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 09:53:32,378 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 09:53:32,484 [server_B] INFO: New connection from ('127.0.0.1', 62327)
+2026-11-03 13:15:02,179 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:02,181 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:02,284 [server_B] INFO: New connection from ('127.0.0.1', 62339)
+2026-11-03 13:15:07,188 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:07,189 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:07,286 [server_B] INFO: New connection from ('127.0.0.1', 62353)
+2026-11-03 13:15:12,190 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:12,193 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:12,288 [server_B] INFO: New connection from ('127.0.0.1', 62374)
+2026-11-03 13:15:17,195 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:17,197 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:17,293 [server_B] INFO: New connection from ('127.0.0.1', 62390)
+2026-11-03 13:15:22,200 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:22,299 [server_B] INFO: New connection from ('127.0.0.1', 62409)
+2026-11-03 13:15:22,301 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:27,366 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:27,430 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:27,703 [server_B] INFO: New connection from ('127.0.0.1', 62471)
+2026-11-03 13:15:32,442 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:32,443 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:32,706 [server_B] INFO: New connection from ('127.0.0.1', 62510)
+2026-11-03 13:15:37,445 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:37,447 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:37,709 [server_B] INFO: New connection from ('127.0.0.1', 62534)
+2026-11-03 13:15:42,449 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:42,450 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:42,714 [server_B] INFO: New connection from ('127.0.0.1', 62577)
+2026-11-03 13:15:47,453 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:47,454 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:47,721 [server_B] INFO: New connection from ('127.0.0.1', 62597)
+2026-11-03 13:15:52,456 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:52,460 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:52,727 [server_B] INFO: New connection from ('127.0.0.1', 62631)
+2026-11-03 13:15:57,462 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:15:57,463 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:15:57,733 [server_B] INFO: New connection from ('127.0.0.1', 62640)
+2026-11-03 13:16:02,468 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:02,539 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:02,738 [server_B] INFO: New connection from ('127.0.0.1', 62648)
+2026-11-03 13:16:07,550 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:07,556 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:08,614 [server_B] INFO: New connection from ('127.0.0.1', 62655)
+2026-11-03 13:16:12,565 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:12,566 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:13,618 [server_B] INFO: New connection from ('127.0.0.1', 62669)
+2026-11-03 13:16:17,567 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:17,568 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:18,621 [server_B] INFO: New connection from ('127.0.0.1', 62717)
+2026-11-03 13:16:22,570 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:22,571 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:23,623 [server_B] INFO: New connection from ('127.0.0.1', 62757)
+2026-11-03 13:16:27,572 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:27,574 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:28,627 [server_B] INFO: New connection from ('127.0.0.1', 62797)
+2026-11-03 13:16:32,577 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:32,581 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:33,639 [server_B] INFO: New connection from ('127.0.0.1', 62841)
+2026-11-03 13:16:37,582 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:37,583 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:38,642 [server_B] INFO: New connection from ('127.0.0.1', 62871)
+2026-11-03 13:16:42,584 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:42,585 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:43,645 [server_B] INFO: New connection from ('127.0.0.1', 62883)
+2026-11-03 13:16:47,586 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:47,588 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:48,647 [server_B] INFO: New connection from ('127.0.0.1', 62887)
+2026-11-03 13:16:52,590 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:52,591 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:53,650 [server_B] INFO: New connection from ('127.0.0.1', 62890)
+2026-11-03 13:16:57,592 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:16:57,593 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:16:58,652 [server_B] INFO: New connection from ('127.0.0.1', 62894)
+2026-11-03 13:17:02,594 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:02,596 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:03,657 [server_B] INFO: New connection from ('127.0.0.1', 62902)
+2026-11-03 13:17:07,597 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:07,598 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:08,659 [server_B] INFO: New connection from ('127.0.0.1', 62907)
+2026-11-03 13:17:12,599 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:12,600 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:13,663 [server_B] INFO: New connection from ('127.0.0.1', 62914)
+2026-11-03 13:17:17,602 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:17,603 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:18,671 [server_B] INFO: New connection from ('127.0.0.1', 62917)
+2026-11-03 13:17:22,604 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:22,606 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:23,677 [server_B] INFO: New connection from ('127.0.0.1', 62922)
+2026-11-03 13:17:27,607 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:27,608 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:28,679 [server_B] INFO: New connection from ('127.0.0.1', 62928)
+2026-11-03 13:17:32,609 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:32,610 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:33,684 [server_B] INFO: New connection from ('127.0.0.1', 62932)
+2026-11-03 13:17:37,612 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:37,615 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:38,687 [server_B] INFO: New connection from ('127.0.0.1', 62936)
+2026-11-03 13:17:42,617 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:42,618 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:43,690 [server_B] INFO: New connection from ('127.0.0.1', 62962)
+2026-11-03 13:17:47,619 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:47,620 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:48,692 [server_B] INFO: New connection from ('127.0.0.1', 62991)
+2026-11-03 13:17:52,621 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:52,622 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:53,695 [server_B] INFO: New connection from ('127.0.0.1', 63000)
+2026-11-03 13:17:57,623 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:17:57,625 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:17:58,699 [server_B] INFO: New connection from ('127.0.0.1', 63027)
+2026-11-03 13:18:02,627 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:02,633 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:03,730 [server_B] INFO: New connection from ('127.0.0.1', 63084)
+2026-11-03 13:18:07,635 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:07,636 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:08,737 [server_B] INFO: New connection from ('127.0.0.1', 63094)
+2026-11-03 13:18:12,637 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:12,638 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:13,742 [server_B] INFO: New connection from ('127.0.0.1', 63098)
+2026-11-03 13:18:17,641 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:17,642 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:18,747 [server_B] INFO: New connection from ('127.0.0.1', 63116)
+2026-11-03 13:18:22,642 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:22,644 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:23,750 [server_B] INFO: New connection from ('127.0.0.1', 63174)
+2026-11-03 13:18:27,645 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:27,661 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:28,758 [server_B] INFO: New connection from ('127.0.0.1', 63193)
+2026-11-03 13:18:32,679 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:32,680 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:33,760 [server_B] INFO: New connection from ('127.0.0.1', 63204)
+2026-11-03 13:18:37,681 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:37,682 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:38,778 [server_B] INFO: New connection from ('127.0.0.1', 63213)
+2026-11-03 13:18:42,686 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:42,695 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:43,780 [server_B] INFO: New connection from ('127.0.0.1', 63220)
+2026-11-03 13:18:47,697 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:47,698 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:48,787 [server_B] INFO: New connection from ('127.0.0.1', 63237)
+2026-11-03 13:18:52,700 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:52,701 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:53,791 [server_B] INFO: New connection from ('127.0.0.1', 63257)
+2026-11-03 13:18:57,703 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:18:57,711 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:18:58,795 [server_B] INFO: New connection from ('127.0.0.1', 63293)
+2026-11-03 13:19:02,725 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:02,727 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:04,071 [server_B] INFO: New connection from ('127.0.0.1', 63321)
+2026-11-03 13:19:07,731 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:07,733 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:09,073 [server_B] INFO: New connection from ('127.0.0.1', 63327)
+2026-11-03 13:19:12,735 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:12,739 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:14,077 [server_B] INFO: New connection from ('127.0.0.1', 63333)
+2026-11-03 13:19:17,741 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:17,742 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:19,082 [server_B] INFO: New connection from ('127.0.0.1', 63346)
+2026-11-03 13:19:22,745 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:22,937 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:24,084 [server_B] INFO: New connection from ('127.0.0.1', 63350)
+2026-11-03 13:19:27,942 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:27,949 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:29,086 [server_B] INFO: New connection from ('127.0.0.1', 63366)
+2026-11-03 13:19:32,951 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:32,952 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:34,089 [server_B] INFO: New connection from ('127.0.0.1', 63417)
+2026-11-03 13:19:37,953 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:37,955 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:39,091 [server_B] INFO: New connection from ('127.0.0.1', 63440)
+2026-11-03 13:19:42,957 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:42,958 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:44,094 [server_B] INFO: New connection from ('127.0.0.1', 63445)
+2026-11-03 13:19:47,959 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:47,960 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:49,096 [server_B] INFO: New connection from ('127.0.0.1', 63448)
+2026-11-03 13:19:52,962 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:52,963 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:54,098 [server_B] INFO: New connection from ('127.0.0.1', 63450)
+2026-11-03 13:19:57,965 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:19:57,968 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:19:59,244 [server_B] INFO: New connection from ('127.0.0.1', 63455)
+2026-11-03 13:20:02,971 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:02,995 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:04,252 [server_B] INFO: New connection from ('127.0.0.1', 63463)
+2026-11-03 13:20:07,998 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:08,004 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:09,270 [server_B] INFO: New connection from ('127.0.0.1', 63466)
+2026-11-03 13:20:13,012 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:13,013 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:14,285 [server_B] INFO: New connection from ('127.0.0.1', 63487)
+2026-11-03 13:20:18,016 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:18,018 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:19,288 [server_B] INFO: New connection from ('127.0.0.1', 63535)
+2026-11-03 13:20:23,019 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:23,020 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:24,290 [server_B] INFO: New connection from ('127.0.0.1', 63558)
+2026-11-03 13:20:28,021 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:28,023 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:29,293 [server_B] INFO: New connection from ('127.0.0.1', 63561)
+2026-11-03 13:20:33,038 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:33,204 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:34,299 [server_B] INFO: New connection from ('127.0.0.1', 63565)
+2026-11-03 13:20:38,210 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:38,214 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:39,327 [server_B] INFO: New connection from ('127.0.0.1', 63571)
+2026-11-03 13:20:43,217 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:43,218 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:44,333 [server_B] INFO: New connection from ('127.0.0.1', 63580)
+2026-11-03 13:20:48,219 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:48,250 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:49,337 [server_B] INFO: New connection from ('127.0.0.1', 63586)
+2026-11-03 13:20:53,252 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:53,254 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:54,340 [server_B] INFO: New connection from ('127.0.0.1', 63588)
+2026-11-03 13:20:58,256 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:20:58,262 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:20:59,388 [server_B] INFO: New connection from ('127.0.0.1', 63593)
+2026-11-03 13:21:03,264 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:03,269 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:04,400 [server_B] INFO: New connection from ('127.0.0.1', 63608)
+2026-11-03 13:21:08,270 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:08,272 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:09,403 [server_B] INFO: New connection from ('127.0.0.1', 63653)
+2026-11-03 13:21:13,278 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:13,279 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:14,413 [server_B] INFO: New connection from ('127.0.0.1', 63675)
+2026-11-03 13:21:18,280 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:18,281 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:19,415 [server_B] INFO: New connection from ('127.0.0.1', 63691)
+2026-11-03 13:21:23,283 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:23,284 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:24,422 [server_B] INFO: New connection from ('127.0.0.1', 63710)
+2026-11-03 13:21:28,286 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:28,288 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:29,449 [server_B] INFO: New connection from ('127.0.0.1', 63724)
+2026-11-03 13:21:33,289 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:33,290 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:34,454 [server_B] INFO: New connection from ('127.0.0.1', 63734)
+2026-11-03 13:21:38,292 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:38,293 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:39,457 [server_B] INFO: New connection from ('127.0.0.1', 63746)
+2026-11-03 13:21:43,295 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:43,297 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:44,461 [server_B] INFO: New connection from ('127.0.0.1', 63754)
+2026-11-03 13:21:48,302 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:48,305 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:49,469 [server_B] INFO: New connection from ('127.0.0.1', 63759)
+2026-11-03 13:21:53,307 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:53,310 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:54,475 [server_B] INFO: New connection from ('127.0.0.1', 63762)
+2026-11-03 13:21:58,312 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:21:58,321 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:21:59,481 [server_B] INFO: New connection from ('127.0.0.1', 63766)
+2026-11-03 13:22:03,324 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:03,327 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:04,484 [server_B] INFO: New connection from ('127.0.0.1', 63784)
+2026-11-03 13:22:08,334 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:08,338 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:09,486 [server_B] INFO: New connection from ('127.0.0.1', 63788)
+2026-11-03 13:22:13,340 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:13,343 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:14,489 [server_B] INFO: New connection from ('127.0.0.1', 63796)
+2026-11-03 13:22:18,349 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:18,350 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:19,492 [server_B] INFO: New connection from ('127.0.0.1', 63804)
+2026-11-03 13:22:23,351 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:23,352 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:24,497 [server_B] INFO: New connection from ('127.0.0.1', 63809)
+2026-11-03 13:22:28,355 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:28,387 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:29,501 [server_B] INFO: New connection from ('127.0.0.1', 63814)
+2026-11-03 13:22:33,396 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:33,437 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:34,504 [server_B] INFO: New connection from ('127.0.0.1', 63824)
+2026-11-03 13:22:38,440 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:38,442 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:39,762 [server_B] INFO: New connection from ('127.0.0.1', 63841)
+2026-11-03 13:22:43,444 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:43,445 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:44,765 [server_B] INFO: New connection from ('127.0.0.1', 63885)
+2026-11-03 13:22:48,446 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:48,459 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:49,770 [server_B] INFO: New connection from ('127.0.0.1', 63924)
+2026-11-03 13:22:53,461 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:53,463 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:54,778 [server_B] INFO: New connection from ('127.0.0.1', 63954)
+2026-11-03 13:22:58,470 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:22:58,476 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:22:59,817 [server_B] INFO: New connection from ('127.0.0.1', 63993)
+2026-11-03 13:23:03,477 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:03,497 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:23:04,892 [server_B] INFO: New connection from ('127.0.0.1', 64081)
+2026-11-03 13:23:08,502 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:08,507 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:23:09,918 [server_B] INFO: New connection from ('127.0.0.1', 64085)
+2026-11-03 13:23:13,510 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:13,629 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:23:14,941 [server_B] INFO: New connection from ('127.0.0.1', 64108)
+2026-11-03 13:23:18,656 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:18,658 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:23:19,945 [server_B] INFO: New connection from ('127.0.0.1', 64113)
+2026-11-03 13:23:23,660 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:23,660 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:23:24,954 [server_B] INFO: New connection from ('127.0.0.1', 64122)
+2026-11-03 13:23:28,664 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:28,665 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:23:29,967 [server_B] INFO: New connection from ('127.0.0.1', 64139)
+2026-11-03 13:23:33,666 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:33,667 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:23:34,971 [server_B] INFO: New connection from ('127.0.0.1', 64152)
+2026-11-03 13:23:38,668 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:38,673 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:23:40,033 [server_B] INFO: New connection from ('127.0.0.1', 64157)
+2026-11-03 13:23:43,675 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:43,679 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:23:45,036 [server_B] INFO: New connection from ('127.0.0.1', 64160)
+2026-11-03 13:23:48,681 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:48,906 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:23:50,058 [server_B] INFO: New connection from ('127.0.0.1', 64165)
+2026-11-03 13:23:53,909 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:53,911 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:23:55,063 [server_B] INFO: New connection from ('127.0.0.1', 64168)
+2026-11-03 13:23:58,912 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:23:58,915 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:00,067 [server_B] INFO: New connection from ('127.0.0.1', 64170)
+2026-11-03 13:24:03,916 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:03,917 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:05,069 [server_B] INFO: New connection from ('127.0.0.1', 64172)
+2026-11-03 13:24:08,918 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:08,919 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:10,074 [server_B] INFO: New connection from ('127.0.0.1', 64175)
+2026-11-03 13:24:13,922 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:13,923 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:15,082 [server_B] INFO: New connection from ('127.0.0.1', 64184)
+2026-11-03 13:24:18,926 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:18,945 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:20,088 [server_B] INFO: New connection from ('127.0.0.1', 64188)
+2026-11-03 13:24:23,995 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:23,997 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:25,091 [server_B] INFO: New connection from ('127.0.0.1', 64196)
+2026-11-03 13:24:28,998 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:28,999 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:30,123 [server_B] INFO: New connection from ('127.0.0.1', 64200)
+2026-11-03 13:24:34,001 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:34,002 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:35,126 [server_B] INFO: New connection from ('127.0.0.1', 64211)
+2026-11-03 13:24:39,004 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:39,005 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:40,128 [server_B] INFO: New connection from ('127.0.0.1', 64214)
+2026-11-03 13:24:44,006 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:44,007 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:45,133 [server_B] INFO: New connection from ('127.0.0.1', 64217)
+2026-11-03 13:24:49,008 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:49,009 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:50,136 [server_B] INFO: New connection from ('127.0.0.1', 64219)
+2026-11-03 13:24:54,010 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:54,012 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:24:55,139 [server_B] INFO: New connection from ('127.0.0.1', 64222)
+2026-11-03 13:24:59,016 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:24:59,017 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:00,411 [server_B] INFO: New connection from ('127.0.0.1', 64226)
+2026-11-03 13:25:04,019 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:04,020 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:05,423 [server_B] INFO: New connection from ('127.0.0.1', 64228)
+2026-11-03 13:25:09,022 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:09,023 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:10,453 [server_B] INFO: New connection from ('127.0.0.1', 64230)
+2026-11-03 13:25:14,026 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:14,028 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:15,556 [server_B] INFO: New connection from ('127.0.0.1', 64235)
+2026-11-03 13:25:19,029 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:19,031 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:20,595 [server_B] INFO: New connection from ('127.0.0.1', 64240)
+2026-11-03 13:25:24,032 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:24,034 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:25,599 [server_B] INFO: New connection from ('127.0.0.1', 64244)
+2026-11-03 13:25:29,035 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:29,036 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:30,602 [server_B] INFO: New connection from ('127.0.0.1', 64250)
+2026-11-03 13:25:34,039 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:34,041 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:35,604 [server_B] INFO: New connection from ('127.0.0.1', 64258)
+2026-11-03 13:25:39,042 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:39,043 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:40,608 [server_B] INFO: New connection from ('127.0.0.1', 64260)
+2026-11-03 13:25:44,045 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:44,046 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:45,611 [server_B] INFO: New connection from ('127.0.0.1', 64263)
+2026-11-03 13:25:49,047 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:49,048 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:50,613 [server_B] INFO: New connection from ('127.0.0.1', 64266)
+2026-11-03 13:25:54,050 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:54,050 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:25:55,615 [server_B] INFO: New connection from ('127.0.0.1', 64272)
+2026-11-03 13:25:59,052 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:25:59,053 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:00,618 [server_B] INFO: New connection from ('127.0.0.1', 64275)
+2026-11-03 13:26:04,054 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:04,055 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:05,621 [server_B] INFO: New connection from ('127.0.0.1', 64277)
+2026-11-03 13:26:09,056 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:09,057 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:10,623 [server_B] INFO: New connection from ('127.0.0.1', 64279)
+2026-11-03 13:26:14,058 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:14,059 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:15,626 [server_B] INFO: New connection from ('127.0.0.1', 64284)
+2026-11-03 13:26:19,060 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:19,061 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:20,628 [server_B] INFO: New connection from ('127.0.0.1', 64290)
+2026-11-03 13:26:24,064 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:24,065 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:25,632 [server_B] INFO: New connection from ('127.0.0.1', 64295)
+2026-11-03 13:26:29,066 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:29,067 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:30,635 [server_B] INFO: New connection from ('127.0.0.1', 64300)
+2026-11-03 13:26:34,069 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:34,070 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:35,637 [server_B] INFO: New connection from ('127.0.0.1', 64303)
+2026-11-03 13:26:39,071 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:39,072 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:40,639 [server_B] INFO: New connection from ('127.0.0.1', 64306)
+2026-11-03 13:26:44,074 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:44,075 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:45,642 [server_B] INFO: New connection from ('127.0.0.1', 64312)
+2026-11-03 13:26:49,077 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:49,079 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:50,644 [server_B] INFO: New connection from ('127.0.0.1', 64314)
+2026-11-03 13:26:54,081 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:54,084 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:26:55,647 [server_B] INFO: New connection from ('127.0.0.1', 64317)
+2026-11-03 13:26:59,086 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:26:59,087 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:00,649 [server_B] INFO: New connection from ('127.0.0.1', 64336)
+2026-11-03 13:27:04,089 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:04,090 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:05,652 [server_B] INFO: New connection from ('127.0.0.1', 64353)
+2026-11-03 13:27:09,092 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:09,093 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:10,658 [server_B] INFO: New connection from ('127.0.0.1', 64370)
+2026-11-03 13:27:14,093 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:14,094 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:15,661 [server_B] INFO: New connection from ('127.0.0.1', 64373)
+2026-11-03 13:27:19,096 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:19,097 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:20,663 [server_B] INFO: New connection from ('127.0.0.1', 64376)
+2026-11-03 13:27:24,098 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:24,099 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:25,669 [server_B] INFO: New connection from ('127.0.0.1', 64382)
+2026-11-03 13:27:29,101 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:29,102 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:30,675 [server_B] INFO: New connection from ('127.0.0.1', 64387)
+2026-11-03 13:27:34,103 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:34,104 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:35,677 [server_B] INFO: New connection from ('127.0.0.1', 64390)
+2026-11-03 13:27:39,105 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:39,106 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:40,681 [server_B] INFO: New connection from ('127.0.0.1', 64404)
+2026-11-03 13:27:44,107 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:44,109 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:45,684 [server_B] INFO: New connection from ('127.0.0.1', 64413)
+2026-11-03 13:27:49,110 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:49,111 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:50,686 [server_B] INFO: New connection from ('127.0.0.1', 64420)
+2026-11-03 13:27:54,112 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:54,114 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:27:55,688 [server_B] INFO: New connection from ('127.0.0.1', 64426)
+2026-11-03 13:27:59,116 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:27:59,117 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:00,691 [server_B] INFO: New connection from ('127.0.0.1', 64435)
+2026-11-03 13:28:04,118 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:04,119 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:05,694 [server_B] INFO: New connection from ('127.0.0.1', 64439)
+2026-11-03 13:28:09,120 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:09,121 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:10,696 [server_B] INFO: New connection from ('127.0.0.1', 64444)
+2026-11-03 13:28:14,123 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:14,124 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:15,698 [server_B] INFO: New connection from ('127.0.0.1', 64447)
+2026-11-03 13:28:19,126 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:19,127 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:20,700 [server_B] INFO: New connection from ('127.0.0.1', 64450)
+2026-11-03 13:28:24,128 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:24,129 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:25,702 [server_B] INFO: New connection from ('127.0.0.1', 64453)
+2026-11-03 13:28:29,131 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:29,133 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:30,704 [server_B] INFO: New connection from ('127.0.0.1', 64458)
+2026-11-03 13:28:34,136 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:34,137 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:35,707 [server_B] INFO: New connection from ('127.0.0.1', 64462)
+2026-11-03 13:28:39,138 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:39,139 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:40,711 [server_B] INFO: New connection from ('127.0.0.1', 64464)
+2026-11-03 13:28:44,140 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:44,142 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:45,713 [server_B] INFO: New connection from ('127.0.0.1', 64467)
+2026-11-03 13:28:49,145 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:49,181 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:50,717 [server_B] INFO: New connection from ('127.0.0.1', 64473)
+2026-11-03 13:28:54,191 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:54,192 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:28:55,720 [server_B] INFO: New connection from ('127.0.0.1', 64477)
+2026-11-03 13:28:59,194 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:28:59,198 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:00,725 [server_B] INFO: New connection from ('127.0.0.1', 64482)
+2026-11-03 13:29:04,205 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:04,207 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:05,730 [server_B] INFO: New connection from ('127.0.0.1', 64487)
+2026-11-03 13:29:09,209 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:09,211 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:10,734 [server_B] INFO: New connection from ('127.0.0.1', 64490)
+2026-11-03 13:29:14,215 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:14,231 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:15,748 [server_B] INFO: New connection from ('127.0.0.1', 64496)
+2026-11-03 13:29:19,235 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:19,236 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:20,752 [server_B] INFO: New connection from ('127.0.0.1', 64499)
+2026-11-03 13:29:24,238 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:24,240 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:25,755 [server_B] INFO: New connection from ('127.0.0.1', 64501)
+2026-11-03 13:29:29,242 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:29,249 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:30,759 [server_B] INFO: New connection from ('127.0.0.1', 64505)
+2026-11-03 13:29:34,251 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:34,254 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:35,772 [server_B] INFO: New connection from ('127.0.0.1', 64510)
+2026-11-03 13:29:39,256 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:39,259 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:40,778 [server_B] INFO: New connection from ('127.0.0.1', 64513)
+2026-11-03 13:29:44,261 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:44,263 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:45,788 [server_B] INFO: New connection from ('127.0.0.1', 64515)
+2026-11-03 13:29:49,265 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:49,266 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:50,791 [server_B] INFO: New connection from ('127.0.0.1', 64517)
+2026-11-03 13:29:54,267 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:54,268 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:29:55,794 [server_B] INFO: New connection from ('127.0.0.1', 64520)
+2026-11-03 13:29:59,269 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:29:59,270 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:00,799 [server_B] INFO: New connection from ('127.0.0.1', 64523)
+2026-11-03 13:30:04,275 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:30:04,276 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:05,807 [server_B] INFO: New connection from ('127.0.0.1', 64526)
+2026-11-03 13:30:09,277 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:30:09,279 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:10,811 [server_B] INFO: New connection from ('127.0.0.1', 64528)
+2026-11-03 13:30:14,280 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:30:14,282 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:15,813 [server_B] INFO: New connection from ('127.0.0.1', 64532)
+2026-11-03 13:30:19,286 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:30:19,287 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:20,816 [server_B] INFO: New connection from ('127.0.0.1', 64535)
+2026-11-03 13:30:24,289 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:30:24,290 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:25,821 [server_B] INFO: New connection from ('127.0.0.1', 64537)
+2026-11-03 13:30:29,291 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:30:29,293 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:30,827 [server_B] INFO: New connection from ('127.0.0.1', 64541)
+2026-11-03 13:30:34,295 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:30:34,296 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:35,894 [server_B] INFO: New connection from ('127.0.0.1', 64549)
+2026-11-03 13:30:39,299 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:30:39,306 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:40,898 [server_B] INFO: New connection from ('127.0.0.1', 64557)
+2026-11-03 13:30:44,311 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:30:44,674 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:45,901 [server_B] INFO: New connection from ('127.0.0.1', 64566)
+2026-11-03 13:30:49,808 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:30:49,991 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:50,937 [server_B] INFO: New connection from ('127.0.0.1', 64577)
+2026-11-03 13:30:55,070 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:30:55,074 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:30:55,976 [server_B] INFO: New connection from ('127.0.0.1', 64587)
+2026-11-03 13:31:00,075 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:00,078 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:00,981 [server_B] INFO: New connection from ('127.0.0.1', 64593)
+2026-11-03 13:31:05,079 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:05,080 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:05,983 [server_B] INFO: New connection from ('127.0.0.1', 64595)
+2026-11-03 13:31:10,081 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:10,082 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:10,989 [server_B] INFO: New connection from ('127.0.0.1', 64600)
+2026-11-03 13:31:15,084 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:15,086 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:15,996 [server_B] INFO: New connection from ('127.0.0.1', 64603)
+2026-11-03 13:31:20,091 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:20,096 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:21,003 [server_B] INFO: New connection from ('127.0.0.1', 64609)
+2026-11-03 13:31:25,097 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:25,098 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:26,007 [server_B] INFO: New connection from ('127.0.0.1', 64613)
+2026-11-03 13:31:30,099 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:30,109 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:31,013 [server_B] INFO: New connection from ('127.0.0.1', 64617)
+2026-11-03 13:31:35,112 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:35,113 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:36,015 [server_B] INFO: New connection from ('127.0.0.1', 64622)
+2026-11-03 13:31:40,115 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:40,116 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:41,020 [server_B] INFO: New connection from ('127.0.0.1', 64625)
+2026-11-03 13:31:45,119 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:45,122 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:46,024 [server_B] INFO: New connection from ('127.0.0.1', 64629)
+2026-11-03 13:31:50,123 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:50,124 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:51,027 [server_B] INFO: New connection from ('127.0.0.1', 64632)
+2026-11-03 13:31:55,126 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:31:55,128 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:31:56,031 [server_B] INFO: New connection from ('127.0.0.1', 64634)
+2026-11-03 13:32:00,129 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:00,130 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:01,035 [server_B] INFO: New connection from ('127.0.0.1', 64637)
+2026-11-03 13:32:05,134 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:05,136 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:06,037 [server_B] INFO: New connection from ('127.0.0.1', 64641)
+2026-11-03 13:32:10,138 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:10,141 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:11,039 [server_B] INFO: New connection from ('127.0.0.1', 64644)
+2026-11-03 13:32:15,144 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:15,149 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:16,042 [server_B] INFO: New connection from ('127.0.0.1', 64647)
+2026-11-03 13:32:20,151 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:20,152 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:21,046 [server_B] INFO: New connection from ('127.0.0.1', 64649)
+2026-11-03 13:32:25,153 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:25,154 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:26,049 [server_B] INFO: New connection from ('127.0.0.1', 64651)
+2026-11-03 13:32:30,155 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:30,156 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:31,051 [server_B] INFO: New connection from ('127.0.0.1', 64656)
+2026-11-03 13:32:35,160 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:35,164 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:36,054 [server_B] INFO: New connection from ('127.0.0.1', 64660)
+2026-11-03 13:32:40,166 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:40,168 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:41,063 [server_B] INFO: New connection from ('127.0.0.1', 64664)
+2026-11-03 13:32:45,169 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:45,170 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:46,188 [server_B] INFO: New connection from ('127.0.0.1', 64666)
+2026-11-03 13:32:50,174 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:50,175 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:51,193 [server_B] INFO: New connection from ('127.0.0.1', 64668)
+2026-11-03 13:32:55,176 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:32:55,177 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:32:56,196 [server_B] INFO: New connection from ('127.0.0.1', 64671)
+2026-11-03 13:33:00,179 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:00,181 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:01,198 [server_B] INFO: New connection from ('127.0.0.1', 64675)
+2026-11-03 13:33:05,182 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:05,184 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:06,201 [server_B] INFO: New connection from ('127.0.0.1', 64682)
+2026-11-03 13:33:10,187 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:10,190 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:11,205 [server_B] INFO: New connection from ('127.0.0.1', 64684)
+2026-11-03 13:33:15,192 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:15,193 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:16,208 [server_B] INFO: New connection from ('127.0.0.1', 64687)
+2026-11-03 13:33:20,194 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:20,196 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:21,210 [server_B] INFO: New connection from ('127.0.0.1', 64690)
+2026-11-03 13:33:25,197 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:25,204 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:26,214 [server_B] INFO: New connection from ('127.0.0.1', 64693)
+2026-11-03 13:33:30,206 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:30,207 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:31,221 [server_B] INFO: New connection from ('127.0.0.1', 64696)
+2026-11-03 13:33:35,208 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:35,209 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:36,223 [server_B] INFO: New connection from ('127.0.0.1', 64699)
+2026-11-03 13:33:40,210 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:40,211 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:41,227 [server_B] INFO: New connection from ('127.0.0.1', 64708)
+2026-11-03 13:33:45,215 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:45,218 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:46,233 [server_B] INFO: New connection from ('127.0.0.1', 64712)
+2026-11-03 13:33:50,221 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:50,223 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:51,235 [server_B] INFO: New connection from ('127.0.0.1', 64719)
+2026-11-03 13:33:55,225 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:33:55,231 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:33:56,238 [server_B] INFO: New connection from ('127.0.0.1', 64727)
+2026-11-03 13:34:00,234 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:00,237 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:01,246 [server_B] INFO: New connection from ('127.0.0.1', 64729)
+2026-11-03 13:34:05,240 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:05,247 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:06,252 [server_B] INFO: New connection from ('127.0.0.1', 64733)
+2026-11-03 13:34:10,249 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:10,251 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:11,256 [server_B] INFO: New connection from ('127.0.0.1', 64736)
+2026-11-03 13:34:15,253 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:15,254 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:16,260 [server_B] INFO: New connection from ('127.0.0.1', 64743)
+2026-11-03 13:34:20,256 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:20,257 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:21,263 [server_B] INFO: New connection from ('127.0.0.1', 64747)
+2026-11-03 13:34:25,259 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:25,261 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:26,267 [server_B] INFO: New connection from ('127.0.0.1', 64750)
+2026-11-03 13:34:30,264 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:30,267 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:31,273 [server_B] INFO: New connection from ('127.0.0.1', 64753)
+2026-11-03 13:34:35,272 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:35,276 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:36,279 [server_B] INFO: New connection from ('127.0.0.1', 64759)
+2026-11-03 13:34:40,278 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:40,279 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:41,285 [server_B] INFO: New connection from ('127.0.0.1', 64761)
+2026-11-03 13:34:45,281 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:45,283 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:46,292 [server_B] INFO: New connection from ('127.0.0.1', 64763)
+2026-11-03 13:34:50,289 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:50,290 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:51,295 [server_B] INFO: New connection from ('127.0.0.1', 64765)
+2026-11-03 13:34:55,292 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:34:55,295 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:34:56,300 [server_B] INFO: New connection from ('127.0.0.1', 64767)
+2026-11-03 13:35:00,300 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:00,303 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:01,304 [server_B] INFO: New connection from ('127.0.0.1', 64769)
+2026-11-03 13:35:05,306 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:05,309 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:06,309 [server_B] INFO: New connection from ('127.0.0.1', 64771)
+2026-11-03 13:35:10,314 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:10,320 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:11,313 [server_B] INFO: New connection from ('127.0.0.1', 64774)
+2026-11-03 13:35:15,322 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:15,323 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:16,316 [server_B] INFO: New connection from ('127.0.0.1', 64776)
+2026-11-03 13:35:20,324 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:20,325 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:21,320 [server_B] INFO: New connection from ('127.0.0.1', 64779)
+2026-11-03 13:35:25,326 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:25,328 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:26,328 [server_B] INFO: New connection from ('127.0.0.1', 64784)
+2026-11-03 13:35:30,330 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:30,333 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:31,354 [server_B] INFO: New connection from ('127.0.0.1', 64787)
+2026-11-03 13:35:35,335 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:35,338 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:36,360 [server_B] INFO: New connection from ('127.0.0.1', 64790)
+2026-11-03 13:35:40,342 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:40,344 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:41,369 [server_B] INFO: New connection from ('127.0.0.1', 64794)
+2026-11-03 13:35:45,350 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:45,382 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:46,373 [server_B] INFO: New connection from ('127.0.0.1', 64800)
+2026-11-03 13:35:50,392 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:50,393 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:51,436 [server_B] INFO: New connection from ('127.0.0.1', 64807)
+2026-11-03 13:35:55,396 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:35:55,398 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:35:56,441 [server_B] INFO: New connection from ('127.0.0.1', 64812)
+2026-11-03 13:36:00,399 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:00,401 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:01,444 [server_B] INFO: New connection from ('127.0.0.1', 64814)
+2026-11-03 13:36:05,402 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:05,405 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:06,447 [server_B] INFO: New connection from ('127.0.0.1', 64816)
+2026-11-03 13:36:10,406 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:10,409 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:11,449 [server_B] INFO: New connection from ('127.0.0.1', 64819)
+2026-11-03 13:36:15,411 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:15,412 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:16,452 [server_B] INFO: New connection from ('127.0.0.1', 64821)
+2026-11-03 13:36:20,413 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:20,415 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:21,455 [server_B] INFO: New connection from ('127.0.0.1', 64823)
+2026-11-03 13:36:25,419 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:25,420 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:26,458 [server_B] INFO: New connection from ('127.0.0.1', 64829)
+2026-11-03 13:36:30,421 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:30,422 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:31,461 [server_B] INFO: New connection from ('127.0.0.1', 64838)
+2026-11-03 13:36:35,424 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:35,426 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:36,465 [server_B] INFO: New connection from ('127.0.0.1', 64841)
+2026-11-03 13:36:40,431 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:40,435 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:41,471 [server_B] INFO: New connection from ('127.0.0.1', 64844)
+2026-11-03 13:36:45,438 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:45,440 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:46,476 [server_B] INFO: New connection from ('127.0.0.1', 64852)
+2026-11-03 13:36:50,443 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:50,446 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:51,486 [server_B] INFO: New connection from ('127.0.0.1', 64859)
+2026-11-03 13:36:55,447 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:36:55,449 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:36:56,492 [server_B] INFO: New connection from ('127.0.0.1', 64861)
+2026-11-03 13:37:00,451 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:00,454 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:01,501 [server_B] INFO: New connection from ('127.0.0.1', 64863)
+2026-11-03 13:37:05,459 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:05,463 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:06,506 [server_B] INFO: New connection from ('127.0.0.1', 64865)
+2026-11-03 13:37:10,465 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:10,468 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:11,514 [server_B] INFO: New connection from ('127.0.0.1', 64868)
+2026-11-03 13:37:15,470 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:15,474 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:16,517 [server_B] INFO: New connection from ('127.0.0.1', 64870)
+2026-11-03 13:37:20,476 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:20,478 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:21,522 [server_B] INFO: New connection from ('127.0.0.1', 64873)
+2026-11-03 13:37:25,481 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:25,484 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:26,532 [server_B] INFO: New connection from ('127.0.0.1', 64875)
+2026-11-03 13:37:30,488 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:30,492 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:31,539 [server_B] INFO: New connection from ('127.0.0.1', 64884)
+2026-11-03 13:37:35,494 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:35,495 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:36,544 [server_B] INFO: New connection from ('127.0.0.1', 64888)
+2026-11-03 13:37:40,497 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:40,499 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:41,550 [server_B] INFO: New connection from ('127.0.0.1', 64890)
+2026-11-03 13:37:45,501 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:45,502 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:46,557 [server_B] INFO: New connection from ('127.0.0.1', 64892)
+2026-11-03 13:37:50,503 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:50,504 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:51,560 [server_B] INFO: New connection from ('127.0.0.1', 64894)
+2026-11-03 13:37:55,505 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:37:55,506 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:37:56,562 [server_B] INFO: New connection from ('127.0.0.1', 64896)
+2026-11-03 13:38:00,508 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:00,509 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:01,569 [server_B] INFO: New connection from ('127.0.0.1', 64899)
+2026-11-03 13:38:05,516 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:05,519 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:06,574 [server_B] INFO: New connection from ('127.0.0.1', 64909)
+2026-11-03 13:38:10,521 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:10,523 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:11,581 [server_B] INFO: New connection from ('127.0.0.1', 64928)
+2026-11-03 13:38:15,526 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:15,533 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:16,587 [server_B] INFO: New connection from ('127.0.0.1', 64957)
+2026-11-03 13:38:20,535 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:20,537 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:21,595 [server_B] INFO: New connection from ('127.0.0.1', 64959)
+2026-11-03 13:38:25,539 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:25,542 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:26,604 [server_B] INFO: New connection from ('127.0.0.1', 64962)
+2026-11-03 13:38:30,548 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:30,550 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:31,612 [server_B] INFO: New connection from ('127.0.0.1', 64965)
+2026-11-03 13:38:35,554 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:35,556 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:36,618 [server_B] INFO: New connection from ('127.0.0.1', 64969)
+2026-11-03 13:38:40,561 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:40,647 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:41,750 [server_B] INFO: New connection from ('127.0.0.1', 64976)
+2026-11-03 13:38:45,672 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:45,713 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:46,850 [server_B] INFO: New connection from ('127.0.0.1', 64983)
+2026-11-03 13:38:50,751 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:50,753 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:51,853 [server_B] INFO: New connection from ('127.0.0.1', 64986)
+2026-11-03 13:38:55,758 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:38:55,760 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:38:56,862 [server_B] INFO: New connection from ('127.0.0.1', 64988)
+2026-11-03 13:39:00,762 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:00,764 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:01,865 [server_B] INFO: New connection from ('127.0.0.1', 64990)
+2026-11-03 13:39:05,767 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:05,772 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:06,870 [server_B] INFO: New connection from ('127.0.0.1', 64993)
+2026-11-03 13:39:10,774 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:10,777 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:11,878 [server_B] INFO: New connection from ('127.0.0.1', 64995)
+2026-11-03 13:39:15,779 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:15,781 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:16,880 [server_B] INFO: New connection from ('127.0.0.1', 64998)
+2026-11-03 13:39:20,784 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:20,789 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:21,888 [server_B] INFO: New connection from ('127.0.0.1', 65005)
+2026-11-03 13:39:25,791 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:25,793 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:26,893 [server_B] INFO: New connection from ('127.0.0.1', 65007)
+2026-11-03 13:39:30,798 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:30,804 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:31,900 [server_B] INFO: New connection from ('127.0.0.1', 65010)
+2026-11-03 13:39:35,806 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:35,810 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:36,906 [server_B] INFO: New connection from ('127.0.0.1', 65013)
+2026-11-03 13:39:40,814 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:40,822 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:41,908 [server_B] INFO: New connection from ('127.0.0.1', 65016)
+2026-11-03 13:39:45,824 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:45,825 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:46,913 [server_B] INFO: New connection from ('127.0.0.1', 65018)
+2026-11-03 13:39:50,829 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:50,830 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:51,916 [server_B] INFO: New connection from ('127.0.0.1', 65020)
+2026-11-03 13:39:55,832 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:39:55,833 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:39:56,919 [server_B] INFO: New connection from ('127.0.0.1', 65022)
+2026-11-03 13:40:00,834 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:00,838 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:40:01,932 [server_B] INFO: New connection from ('127.0.0.1', 65024)
+2026-11-03 13:40:05,842 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:05,844 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:40:06,951 [server_B] INFO: New connection from ('127.0.0.1', 65026)
+2026-11-03 13:40:10,846 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:11,083 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:40:12,163 [server_B] INFO: New connection from ('127.0.0.1', 65028)
+2026-11-03 13:40:16,108 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:16,966 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:40:19,161 [server_B] INFO: New connection from ('127.0.0.1', 65032)
+2026-11-03 13:40:22,119 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:22,334 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:40:24,526 [server_B] INFO: New connection from ('127.0.0.1', 65035)
+2026-11-03 13:40:27,448 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:27,595 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:40:29,843 [server_B] INFO: New connection from ('127.0.0.1', 65039)
+2026-11-03 13:40:32,637 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:32,815 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:40:35,142 [server_B] INFO: New connection from ('127.0.0.1', 65042)
+2026-11-03 13:40:37,910 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:37,970 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:40:40,311 [server_B] INFO: New connection from ('127.0.0.1', 65044)
+2026-11-03 13:40:42,987 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:43,228 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:40:45,593 [server_B] INFO: New connection from ('127.0.0.1', 65051)
+2026-11-03 13:40:48,356 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:48,609 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:40:51,010 [server_B] INFO: New connection from ('127.0.0.1', 65055)
+2026-11-03 13:40:53,841 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:54,071 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:40:56,472 [server_B] INFO: New connection from ('127.0.0.1', 65060)
+2026-11-03 13:40:59,260 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:40:59,602 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:41:01,802 [server_B] INFO: New connection from ('127.0.0.1', 65063)
+2026-11-03 13:41:04,717 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:41:04,861 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:41:07,261 [server_B] INFO: New connection from ('127.0.0.1', 65065)
+2026-11-03 13:41:09,985 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:41:10,201 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:41:13,171 [server_B] INFO: New connection from ('127.0.0.1', 65069)
+2026-11-03 13:41:15,342 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:41:15,682 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:41:18,616 [server_B] INFO: New connection from ('127.0.0.1', 65074)
+2026-11-03 13:41:20,823 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:41:21,038 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:41:24,081 [server_B] INFO: New connection from ('127.0.0.1', 65083)
+2026-11-03 13:41:26,145 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:41:26,346 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:41:29,481 [server_B] INFO: New connection from ('127.0.0.1', 65087)
+2026-11-03 13:41:31,438 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:41:31,636 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:41:34,738 [server_B] INFO: New connection from ('127.0.0.1', 65089)
+2026-11-03 13:41:36,813 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:41:37,033 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:41:40,363 [server_B] INFO: New connection from ('127.0.0.1', 65095)
+2026-11-03 13:41:42,212 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:41:42,883 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:41:45,770 [server_B] INFO: New connection from ('127.0.0.1', 65101)
+2026-11-03 13:41:48,012 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:41:48,169 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:41:51,082 [server_B] INFO: New connection from ('127.0.0.1', 65105)
+2026-11-03 13:41:53,260 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:41:53,480 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:41:56,342 [server_B] INFO: New connection from ('127.0.0.1', 65110)
+2026-11-03 13:41:58,598 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:41:58,860 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:42:01,595 [server_B] INFO: New connection from ('127.0.0.1', 65112)
+2026-11-03 13:42:04,059 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:42:04,309 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:42:06,993 [server_B] INFO: New connection from ('127.0.0.1', 65114)
+2026-11-03 13:42:09,407 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:42:09,676 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:42:12,395 [server_B] INFO: New connection from ('127.0.0.1', 65118)
+2026-11-03 13:42:15,172 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:42:15,554 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:42:17,726 [server_B] INFO: New connection from ('127.0.0.1', 65124)
+2026-11-03 13:42:20,707 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:42:21,050 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:42:23,405 [server_B] INFO: New connection from ('127.0.0.1', 65126)
+2026-11-03 13:42:26,151 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:42:26,342 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:42:28,768 [server_B] INFO: New connection from ('127.0.0.1', 65132)
+2026-11-03 13:42:31,462 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:42:31,620 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:42:34,257 [server_B] INFO: New connection from ('127.0.0.1', 65139)
+2026-11-03 13:42:36,709 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:42:36,944 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:42:39,459 [server_B] INFO: New connection from ('127.0.0.1', 65142)
+2026-11-03 13:42:42,008 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:42:42,139 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:42:44,571 [server_B] INFO: New connection from ('127.0.0.1', 65145)
+2026-11-03 13:42:47,199 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:42:47,257 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:42:49,618 [server_B] INFO: New connection from ('127.0.0.1', 65153)
+2026-11-03 13:42:52,352 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:42:52,486 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:42:55,006 [server_B] INFO: New connection from ('127.0.0.1', 65156)
+2026-11-03 13:42:57,509 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:42:57,699 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:00,402 [server_B] INFO: New connection from ('127.0.0.1', 65160)
+2026-11-03 13:43:02,832 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:43:03,059 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:05,513 [server_B] INFO: New connection from ('127.0.0.1', 65162)
+2026-11-03 13:43:08,147 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:43:08,317 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:10,828 [server_B] INFO: New connection from ('127.0.0.1', 65164)
+2026-11-03 13:43:13,408 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:43:13,526 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:16,116 [server_B] INFO: New connection from ('127.0.0.1', 65166)
+2026-11-03 13:43:18,548 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:43:18,711 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:21,396 [server_B] INFO: New connection from ('127.0.0.1', 65169)
+2026-11-03 13:43:23,802 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:43:24,007 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:26,618 [server_B] INFO: New connection from ('127.0.0.1', 65171)
+2026-11-03 13:43:29,146 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:43:29,320 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:31,850 [server_B] INFO: New connection from ('127.0.0.1', 65174)
+2026-11-03 13:43:34,366 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:43:34,372 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:37,027 [server_B] INFO: New connection from ('127.0.0.1', 65178)
+2026-11-03 13:43:39,376 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:43:39,527 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:42,574 [server_B] INFO: New connection from ('127.0.0.1', 65183)
+2026-11-03 13:43:44,529 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:43:44,739 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:48,141 [server_B] INFO: New connection from ('127.0.0.1', 65194)
+2026-11-03 13:43:49,758 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:43:50,141 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:53,511 [server_B] INFO: New connection from ('127.0.0.1', 65203)
+2026-11-03 13:43:55,243 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:43:55,429 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:43:58,743 [server_B] INFO: New connection from ('127.0.0.1', 65206)
+2026-11-03 13:44:00,481 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:00,748 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:44:04,153 [server_B] INFO: New connection from ('127.0.0.1', 65212)
+2026-11-03 13:44:05,841 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:06,090 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:44:09,401 [server_B] INFO: New connection from ('127.0.0.1', 65219)
+2026-11-03 13:44:11,172 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:11,336 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:44:14,768 [server_B] INFO: New connection from ('127.0.0.1', 65222)
+2026-11-03 13:44:16,353 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:16,574 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:44:20,089 [server_B] INFO: New connection from ('127.0.0.1', 65224)
+2026-11-03 13:44:21,681 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:21,844 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:44:25,240 [server_B] INFO: New connection from ('127.0.0.1', 65226)
+2026-11-03 13:44:26,926 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:27,109 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:44:30,498 [server_B] INFO: New connection from ('127.0.0.1', 65229)
+2026-11-03 13:44:32,195 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:32,417 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:44:35,831 [server_B] INFO: New connection from ('127.0.0.1', 65232)
+2026-11-03 13:44:37,595 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:38,440 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:44:41,867 [server_B] INFO: New connection from ('127.0.0.1', 65234)
+2026-11-03 13:44:43,646 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:43,833 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:44:47,375 [server_B] INFO: New connection from ('127.0.0.1', 65236)
+2026-11-03 13:44:48,916 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:49,258 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:44:52,924 [server_B] INFO: New connection from ('127.0.0.1', 65238)
+2026-11-03 13:44:54,421 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:54,633 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:44:57,926 [server_B] INFO: New connection from ('127.0.0.1', 65240)
+2026-11-03 13:44:59,702 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:44:59,828 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:45:03,502 [server_B] INFO: New connection from ('127.0.0.1', 65242)
+2026-11-03 13:45:04,948 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:45:05,302 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:45:09,053 [server_B] INFO: New connection from ('127.0.0.1', 65248)
+2026-11-03 13:45:10,587 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:45:11,257 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:45:15,106 [server_B] INFO: New connection from ('127.0.0.1', 65255)
+2026-11-03 13:45:18,477 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:45:20,735 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:45:25,587 [server_B] INFO: New connection from ('127.0.0.1', 65267)
+2026-11-03 13:45:25,824 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:45:25,967 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:45:30,908 [server_B] INFO: New connection from ('127.0.0.1', 65270)
+2026-11-03 13:45:31,074 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:45:31,289 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:45:36,131 [server_B] INFO: New connection from ('127.0.0.1', 65273)
+2026-11-03 13:45:36,387 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:45:36,706 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:45:41,398 [server_B] INFO: New connection from ('127.0.0.1', 65276)
+2026-11-03 13:45:41,840 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:45:42,052 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:45:46,731 [server_B] INFO: New connection from ('127.0.0.1', 65279)
+2026-11-03 13:45:47,234 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:45:47,466 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:45:52,222 [server_B] INFO: New connection from ('127.0.0.1', 65285)
+2026-11-03 13:45:52,578 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:45:52,851 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:45:57,449 [server_B] INFO: New connection from ('127.0.0.1', 65291)
+2026-11-03 13:45:57,931 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:45:58,241 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:46:02,914 [server_B] INFO: New connection from ('127.0.0.1', 65295)
+2026-11-03 13:46:03,456 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:46:03,832 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:46:08,607 [server_B] INFO: New connection from ('127.0.0.1', 65297)
+2026-11-03 13:46:08,957 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:46:09,217 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:46:13,958 [server_B] INFO: New connection from ('127.0.0.1', 65299)
+2026-11-03 13:46:14,473 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:46:14,711 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:46:19,190 [server_B] INFO: New connection from ('127.0.0.1', 65301)
+2026-11-03 13:46:19,761 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:46:19,873 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:46:24,229 [server_B] INFO: New connection from ('127.0.0.1', 65304)
+2026-11-03 13:46:24,895 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:46:24,899 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:46:29,232 [server_B] INFO: New connection from ('127.0.0.1', 65310)
+2026-11-03 13:46:29,902 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:46:30,050 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:46:34,248 [server_B] INFO: New connection from ('127.0.0.1', 65316)
+2026-11-03 13:46:35,072 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:46:35,211 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:46:39,389 [server_B] INFO: New connection from ('127.0.0.1', 65329)
+2026-11-03 13:46:40,256 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:46:40,261 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:46:44,393 [server_B] INFO: New connection from ('127.0.0.1', 65346)
+2026-11-03 13:46:45,264 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:46:45,773 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:46:49,641 [server_B] INFO: New connection from ('127.0.0.1', 65370)
+2026-11-03 13:46:51,038 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:46:52,124 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:46:55,075 [server_B] INFO: New connection from ('127.0.0.1', 65375)
+2026-11-03 13:46:57,417 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:46:57,628 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:00,155 [server_B] INFO: New connection from ('127.0.0.1', 65380)
+2026-11-03 13:47:02,685 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:02,687 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:05,417 [server_B] INFO: New connection from ('127.0.0.1', 65384)
+2026-11-03 13:47:07,691 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:07,799 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:10,891 [server_B] INFO: New connection from ('127.0.0.1', 65394)
+2026-11-03 13:47:12,800 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:12,954 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:16,105 [server_B] INFO: New connection from ('127.0.0.1', 65398)
+2026-11-03 13:47:18,032 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:18,112 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:21,129 [server_B] INFO: New connection from ('127.0.0.1', 65404)
+2026-11-03 13:47:23,168 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:23,250 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:26,446 [server_B] INFO: New connection from ('127.0.0.1', 65430)
+2026-11-03 13:47:28,335 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:28,670 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:31,589 [server_B] INFO: New connection from ('127.0.0.1', 65457)
+2026-11-03 13:47:33,733 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:33,778 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:36,748 [server_B] INFO: New connection from ('127.0.0.1', 65470)
+2026-11-03 13:47:38,791 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:38,794 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:41,752 [server_B] INFO: New connection from ('127.0.0.1', 65480)
+2026-11-03 13:47:43,795 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:43,799 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:46,783 [server_B] INFO: New connection from ('127.0.0.1', 65488)
+2026-11-03 13:47:48,800 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:48,817 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:51,789 [server_B] INFO: New connection from ('127.0.0.1', 65496)
+2026-11-03 13:47:53,822 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:53,824 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:47:56,795 [server_B] INFO: New connection from ('127.0.0.1', 65504)
+2026-11-03 13:47:58,827 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:47:58,831 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:01,801 [server_B] INFO: New connection from ('127.0.0.1', 65514)
+2026-11-03 13:48:03,833 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:03,837 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:06,806 [server_B] INFO: New connection from ('127.0.0.1', 65526)
+2026-11-03 13:48:08,838 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:08,839 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:11,808 [server_B] INFO: New connection from ('127.0.0.1', 65534)
+2026-11-03 13:48:13,840 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:13,841 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:16,812 [server_B] INFO: New connection from ('127.0.0.1', 49159)
+2026-11-03 13:48:18,842 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:18,843 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:21,817 [server_B] INFO: New connection from ('127.0.0.1', 49167)
+2026-11-03 13:48:23,844 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:23,850 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:26,824 [server_B] INFO: New connection from ('127.0.0.1', 49176)
+2026-11-03 13:48:28,852 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:28,884 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:31,827 [server_B] INFO: New connection from ('127.0.0.1', 49186)
+2026-11-03 13:48:33,892 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:33,893 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:36,833 [server_B] INFO: New connection from ('127.0.0.1', 49195)
+2026-11-03 13:48:38,897 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:38,899 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:41,838 [server_B] INFO: New connection from ('127.0.0.1', 49203)
+2026-11-03 13:48:43,901 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:43,906 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:46,920 [server_B] INFO: New connection from ('127.0.0.1', 49219)
+2026-11-03 13:48:48,917 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:48,966 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:52,051 [server_B] INFO: New connection from ('127.0.0.1', 49227)
+2026-11-03 13:48:53,969 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:54,011 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:48:57,111 [server_B] INFO: New connection from ('127.0.0.1', 49233)
+2026-11-03 13:48:59,014 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:48:59,280 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:02,135 [server_B] INFO: New connection from ('127.0.0.1', 49243)
+2026-11-03 13:49:04,295 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:49:04,300 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:07,179 [server_B] INFO: New connection from ('127.0.0.1', 49248)
+2026-11-03 13:49:09,301 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:49:09,310 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:12,198 [server_B] INFO: New connection from ('127.0.0.1', 49251)
+2026-11-03 13:49:14,313 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:49:14,577 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:17,617 [server_B] INFO: New connection from ('127.0.0.1', 49265)
+2026-11-03 13:49:19,684 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:49:19,835 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:23,098 [server_B] INFO: New connection from ('127.0.0.1', 49270)
+2026-11-03 13:49:24,898 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:49:24,912 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:28,427 [server_B] INFO: New connection from ('127.0.0.1', 49274)
+2026-11-03 13:49:29,942 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:49:29,943 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:33,429 [server_B] INFO: New connection from ('127.0.0.1', 49277)
+2026-11-03 13:49:34,945 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:49:34,976 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:38,514 [server_B] INFO: New connection from ('127.0.0.1', 49282)
+2026-11-03 13:49:39,980 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:49:40,092 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:43,606 [server_B] INFO: New connection from ('127.0.0.1', 49286)
+2026-11-03 13:49:45,104 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:49:45,110 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:48,636 [server_B] INFO: New connection from ('127.0.0.1', 49290)
+2026-11-03 13:49:50,123 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:49:50,141 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:53,643 [server_B] INFO: New connection from ('127.0.0.1', 49293)
+2026-11-03 13:49:55,143 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:49:55,177 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:49:58,671 [server_B] INFO: New connection from ('127.0.0.1', 49316)
+2026-11-03 13:50:00,185 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:00,187 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:03,690 [server_B] INFO: New connection from ('127.0.0.1', 49332)
+2026-11-03 13:50:05,188 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:05,191 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:08,706 [server_B] INFO: New connection from ('127.0.0.1', 49335)
+2026-11-03 13:50:10,198 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:10,204 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:13,751 [server_B] INFO: New connection from ('127.0.0.1', 49340)
+2026-11-03 13:50:15,222 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:15,237 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:18,774 [server_B] INFO: New connection from ('127.0.0.1', 49355)
+2026-11-03 13:50:20,247 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:20,255 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:23,800 [server_B] INFO: New connection from ('127.0.0.1', 49358)
+2026-11-03 13:50:25,265 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:25,298 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:28,824 [server_B] INFO: New connection from ('127.0.0.1', 49364)
+2026-11-03 13:50:30,338 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:30,367 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:33,836 [server_B] INFO: New connection from ('127.0.0.1', 49369)
+2026-11-03 13:50:35,370 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:35,384 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:38,864 [server_B] INFO: New connection from ('127.0.0.1', 49375)
+2026-11-03 13:50:40,393 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:40,399 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:43,892 [server_B] INFO: New connection from ('127.0.0.1', 49378)
+2026-11-03 13:50:45,402 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:45,423 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:48,912 [server_B] INFO: New connection from ('127.0.0.1', 49381)
+2026-11-03 13:50:50,431 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:50,487 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:53,932 [server_B] INFO: New connection from ('127.0.0.1', 49384)
+2026-11-03 13:50:55,526 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:50:55,583 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:50:58,982 [server_B] INFO: New connection from ('127.0.0.1', 49387)
+2026-11-03 13:51:00,598 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:00,634 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:04,039 [server_B] INFO: New connection from ('127.0.0.1', 49390)
+2026-11-03 13:51:05,646 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:05,695 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:09,059 [server_B] INFO: New connection from ('127.0.0.1', 49393)
+2026-11-03 13:51:10,702 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:10,720 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:14,095 [server_B] INFO: New connection from ('127.0.0.1', 49401)
+2026-11-03 13:51:15,726 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:15,757 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:19,140 [server_B] INFO: New connection from ('127.0.0.1', 49407)
+2026-11-03 13:51:20,762 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:20,778 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:24,410 [server_B] INFO: New connection from ('127.0.0.1', 49411)
+2026-11-03 13:51:25,785 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:25,818 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:29,433 [server_B] INFO: New connection from ('127.0.0.1', 49419)
+2026-11-03 13:51:30,823 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:30,841 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:34,437 [server_B] INFO: New connection from ('127.0.0.1', 49428)
+2026-11-03 13:51:35,859 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:35,891 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:39,467 [server_B] INFO: New connection from ('127.0.0.1', 49432)
+2026-11-03 13:51:40,905 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:40,915 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:44,500 [server_B] INFO: New connection from ('127.0.0.1', 49441)
+2026-11-03 13:51:45,919 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:45,921 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:49,589 [server_B] INFO: New connection from ('127.0.0.1', 49444)
+2026-11-03 13:51:50,922 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:50,937 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:54,654 [server_B] INFO: New connection from ('127.0.0.1', 49447)
+2026-11-03 13:51:55,942 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:51:55,954 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:51:59,675 [server_B] INFO: New connection from ('127.0.0.1', 49450)
+2026-11-03 13:52:00,979 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:01,000 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:04,704 [server_B] INFO: New connection from ('127.0.0.1', 49453)
+2026-11-03 13:52:06,018 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:06,028 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:09,716 [server_B] INFO: New connection from ('127.0.0.1', 49456)
+2026-11-03 13:52:11,030 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:11,052 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:14,757 [server_B] INFO: New connection from ('127.0.0.1', 49459)
+2026-11-03 13:52:16,063 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:16,094 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:19,773 [server_B] INFO: New connection from ('127.0.0.1', 49462)
+2026-11-03 13:52:21,099 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:21,105 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:24,795 [server_B] INFO: New connection from ('127.0.0.1', 49467)
+2026-11-03 13:52:26,109 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:26,110 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:29,802 [server_B] INFO: New connection from ('127.0.0.1', 49473)
+2026-11-03 13:52:31,112 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:31,113 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:34,808 [server_B] INFO: New connection from ('127.0.0.1', 49651)
+2026-11-03 13:52:36,114 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:36,118 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:39,811 [server_B] INFO: New connection from ('127.0.0.1', 49662)
+2026-11-03 13:52:41,120 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:41,121 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:44,814 [server_B] INFO: New connection from ('127.0.0.1', 49675)
+2026-11-03 13:52:46,123 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:46,125 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:49,825 [server_B] INFO: New connection from ('127.0.0.1', 49683)
+2026-11-03 13:52:51,126 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:51,127 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:54,827 [server_B] INFO: New connection from ('127.0.0.1', 49696)
+2026-11-03 13:52:56,130 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:52:56,132 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:52:59,846 [server_B] INFO: New connection from ('127.0.0.1', 49707)
+2026-11-03 13:53:01,133 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:01,137 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:04,851 [server_B] INFO: New connection from ('127.0.0.1', 49716)
+2026-11-03 13:53:06,139 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:06,141 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:09,854 [server_B] INFO: New connection from ('127.0.0.1', 49724)
+2026-11-03 13:53:11,143 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:11,147 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:14,861 [server_B] INFO: New connection from ('127.0.0.1', 49734)
+2026-11-03 13:53:16,149 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:16,150 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:19,865 [server_B] INFO: New connection from ('127.0.0.1', 49746)
+2026-11-03 13:53:21,152 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:21,153 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:24,869 [server_B] INFO: New connection from ('127.0.0.1', 49759)
+2026-11-03 13:53:26,154 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:26,155 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:29,872 [server_B] INFO: New connection from ('127.0.0.1', 49768)
+2026-11-03 13:53:31,157 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:31,158 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:34,876 [server_B] INFO: New connection from ('127.0.0.1', 49777)
+2026-11-03 13:53:36,160 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:36,161 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:39,879 [server_B] INFO: New connection from ('127.0.0.1', 49786)
+2026-11-03 13:53:41,163 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:41,164 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:44,882 [server_B] INFO: New connection from ('127.0.0.1', 49797)
+2026-11-03 13:53:46,166 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:46,167 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:49,886 [server_B] INFO: New connection from ('127.0.0.1', 49809)
+2026-11-03 13:53:51,170 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:51,172 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:54,893 [server_B] INFO: New connection from ('127.0.0.1', 49825)
+2026-11-03 13:53:56,174 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:53:56,175 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:53:59,896 [server_B] INFO: New connection from ('127.0.0.1', 49833)
+2026-11-03 13:54:01,177 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:01,178 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:04,899 [server_B] INFO: New connection from ('127.0.0.1', 49842)
+2026-11-03 13:54:06,180 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:06,181 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:09,904 [server_B] INFO: New connection from ('127.0.0.1', 49851)
+2026-11-03 13:54:11,183 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:11,186 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:14,907 [server_B] INFO: New connection from ('127.0.0.1', 49866)
+2026-11-03 13:54:16,188 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:16,189 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:19,909 [server_B] INFO: New connection from ('127.0.0.1', 49874)
+2026-11-03 13:54:21,189 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:21,190 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:24,919 [server_B] INFO: New connection from ('127.0.0.1', 49882)
+2026-11-03 13:54:26,193 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:26,196 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:29,921 [server_B] INFO: New connection from ('127.0.0.1', 49893)
+2026-11-03 13:54:31,197 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:31,198 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:34,923 [server_B] INFO: New connection from ('127.0.0.1', 49912)
+2026-11-03 13:54:36,200 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:36,201 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:39,926 [server_B] INFO: New connection from ('127.0.0.1', 49931)
+2026-11-03 13:54:41,203 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:41,204 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:44,931 [server_B] INFO: New connection from ('127.0.0.1', 49941)
+2026-11-03 13:54:46,205 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:46,206 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:49,933 [server_B] INFO: New connection from ('127.0.0.1', 49953)
+2026-11-03 13:54:51,207 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:51,209 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:54,935 [server_B] INFO: New connection from ('127.0.0.1', 49961)
+2026-11-03 13:54:56,211 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:54:56,212 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:54:59,937 [server_B] INFO: New connection from ('127.0.0.1', 49971)
+2026-11-03 13:55:01,213 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:01,214 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:04,942 [server_B] INFO: New connection from ('127.0.0.1', 49981)
+2026-11-03 13:55:06,216 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:06,218 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:09,944 [server_B] INFO: New connection from ('127.0.0.1', 49990)
+2026-11-03 13:55:11,222 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:11,223 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:14,947 [server_B] INFO: New connection from ('127.0.0.1', 49999)
+2026-11-03 13:55:16,225 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:16,226 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:19,950 [server_B] INFO: New connection from ('127.0.0.1', 50013)
+2026-11-03 13:55:21,227 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:21,228 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:24,954 [server_B] INFO: New connection from ('127.0.0.1', 50025)
+2026-11-03 13:55:26,230 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:26,231 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:29,957 [server_B] INFO: New connection from ('127.0.0.1', 50036)
+2026-11-03 13:55:31,234 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:31,235 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:34,959 [server_B] INFO: New connection from ('127.0.0.1', 50047)
+2026-11-03 13:55:36,238 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:36,240 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:39,963 [server_B] INFO: New connection from ('127.0.0.1', 50056)
+2026-11-03 13:55:41,241 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:41,243 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:44,969 [server_B] INFO: New connection from ('127.0.0.1', 50066)
+2026-11-03 13:55:46,244 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:46,246 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:49,972 [server_B] INFO: New connection from ('127.0.0.1', 50074)
+2026-11-03 13:55:51,249 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:51,251 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:54,976 [server_B] INFO: New connection from ('127.0.0.1', 50083)
+2026-11-03 13:55:56,253 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:55:56,254 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:55:59,981 [server_B] INFO: New connection from ('127.0.0.1', 50092)
+2026-11-03 13:56:01,256 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:01,258 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:56:04,987 [server_B] INFO: New connection from ('127.0.0.1', 50101)
+2026-11-03 13:56:06,264 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:06,267 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:56:09,996 [server_B] INFO: New connection from ('127.0.0.1', 50111)
+2026-11-03 13:56:11,270 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:11,272 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:56:15,003 [server_B] INFO: New connection from ('127.0.0.1', 50124)
+2026-11-03 13:56:16,279 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:16,282 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:56:20,006 [server_B] INFO: New connection from ('127.0.0.1', 50133)
+2026-11-03 13:56:21,284 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:21,285 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:56:25,015 [server_B] INFO: New connection from ('127.0.0.1', 50142)
+2026-11-03 13:56:26,287 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:26,289 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:56:30,018 [server_B] INFO: New connection from ('127.0.0.1', 50152)
+2026-11-03 13:56:31,292 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:31,296 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:56:35,026 [server_B] INFO: New connection from ('127.0.0.1', 50165)
+2026-11-03 13:56:36,299 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:36,302 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:56:40,033 [server_B] INFO: New connection from ('127.0.0.1', 50175)
+2026-11-03 13:56:41,305 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:41,310 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:56:45,042 [server_B] INFO: New connection from ('127.0.0.1', 50188)
+2026-11-03 13:56:46,313 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:46,315 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:56:50,052 [server_B] INFO: New connection from ('127.0.0.1', 50201)
+2026-11-03 13:56:51,317 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:51,324 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:56:55,064 [server_B] INFO: New connection from ('127.0.0.1', 50215)
+2026-11-03 13:56:56,326 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:56:56,331 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:00,071 [server_B] INFO: New connection from ('127.0.0.1', 50224)
+2026-11-03 13:57:01,336 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:01,374 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:05,074 [server_B] INFO: New connection from ('127.0.0.1', 50236)
+2026-11-03 13:57:06,385 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:06,390 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:10,083 [server_B] INFO: New connection from ('127.0.0.1', 50244)
+2026-11-03 13:57:11,394 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:11,405 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:15,094 [server_B] INFO: New connection from ('127.0.0.1', 50255)
+2026-11-03 13:57:16,407 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:16,409 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:20,103 [server_B] INFO: New connection from ('127.0.0.1', 50264)
+2026-11-03 13:57:21,414 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:21,419 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:25,109 [server_B] INFO: New connection from ('127.0.0.1', 50273)
+2026-11-03 13:57:26,422 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:26,424 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:30,115 [server_B] INFO: New connection from ('127.0.0.1', 50284)
+2026-11-03 13:57:31,430 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:31,433 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:35,117 [server_B] INFO: New connection from ('127.0.0.1', 50293)
+2026-11-03 13:57:36,435 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:36,437 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:40,120 [server_B] INFO: New connection from ('127.0.0.1', 50302)
+2026-11-03 13:57:41,439 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:41,440 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:45,126 [server_B] INFO: New connection from ('127.0.0.1', 50313)
+2026-11-03 13:57:46,443 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:46,445 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:50,132 [server_B] INFO: New connection from ('127.0.0.1', 50323)
+2026-11-03 13:57:51,447 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:51,448 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:57:55,136 [server_B] INFO: New connection from ('127.0.0.1', 50332)
+2026-11-03 13:57:56,451 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:57:56,453 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:00,141 [server_B] INFO: New connection from ('127.0.0.1', 50342)
+2026-11-03 13:58:01,459 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:01,464 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:05,145 [server_B] INFO: New connection from ('127.0.0.1', 50354)
+2026-11-03 13:58:06,467 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:06,475 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:10,151 [server_B] INFO: New connection from ('127.0.0.1', 50366)
+2026-11-03 13:58:11,483 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:11,489 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:15,159 [server_B] INFO: New connection from ('127.0.0.1', 50376)
+2026-11-03 13:58:16,493 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:16,494 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:20,167 [server_B] INFO: New connection from ('127.0.0.1', 50385)
+2026-11-03 13:58:21,496 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:21,499 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:25,178 [server_B] INFO: New connection from ('127.0.0.1', 50393)
+2026-11-03 13:58:26,505 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:26,506 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:30,185 [server_B] INFO: New connection from ('127.0.0.1', 50405)
+2026-11-03 13:58:31,508 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:31,511 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:35,193 [server_B] INFO: New connection from ('127.0.0.1', 50415)
+2026-11-03 13:58:36,518 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:36,520 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:40,198 [server_B] INFO: New connection from ('127.0.0.1', 50425)
+2026-11-03 13:58:41,523 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:41,526 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:45,203 [server_B] INFO: New connection from ('127.0.0.1', 50436)
+2026-11-03 13:58:46,527 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:46,531 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:50,207 [server_B] INFO: New connection from ('127.0.0.1', 50450)
+2026-11-03 13:58:51,533 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:51,537 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:58:55,212 [server_B] INFO: New connection from ('127.0.0.1', 50461)
+2026-11-03 13:58:56,539 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:58:56,541 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:00,217 [server_B] INFO: New connection from ('127.0.0.1', 50477)
+2026-11-03 13:59:01,544 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:01,545 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:05,222 [server_B] INFO: New connection from ('127.0.0.1', 50485)
+2026-11-03 13:59:06,546 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:06,548 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:10,228 [server_B] INFO: New connection from ('127.0.0.1', 50495)
+2026-11-03 13:59:11,549 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:11,550 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:15,235 [server_B] INFO: New connection from ('127.0.0.1', 50504)
+2026-11-03 13:59:16,552 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:16,553 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:20,238 [server_B] INFO: New connection from ('127.0.0.1', 50513)
+2026-11-03 13:59:21,554 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:21,555 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:25,247 [server_B] INFO: New connection from ('127.0.0.1', 50523)
+2026-11-03 13:59:26,563 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:26,569 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:30,252 [server_B] INFO: New connection from ('127.0.0.1', 50533)
+2026-11-03 13:59:31,581 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:31,583 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:35,257 [server_B] INFO: New connection from ('127.0.0.1', 50541)
+2026-11-03 13:59:36,584 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:36,590 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:40,264 [server_B] INFO: New connection from ('127.0.0.1', 50550)
+2026-11-03 13:59:41,594 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:41,598 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:45,269 [server_B] INFO: New connection from ('127.0.0.1', 50560)
+2026-11-03 13:59:46,600 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:46,609 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:50,272 [server_B] INFO: New connection from ('127.0.0.1', 50568)
+2026-11-03 13:59:51,610 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:51,612 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 13:59:55,277 [server_B] INFO: New connection from ('127.0.0.1', 50578)
+2026-11-03 13:59:56,614 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 13:59:56,621 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:00,285 [server_B] INFO: New connection from ('127.0.0.1', 50586)
+2026-11-03 14:00:01,623 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:01,626 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:05,293 [server_B] INFO: New connection from ('127.0.0.1', 50594)
+2026-11-03 14:00:06,629 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:06,633 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:10,301 [server_B] INFO: New connection from ('127.0.0.1', 50609)
+2026-11-03 14:00:11,638 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:11,639 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:15,308 [server_B] INFO: New connection from ('127.0.0.1', 50621)
+2026-11-03 14:00:16,640 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:16,641 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:20,313 [server_B] INFO: New connection from ('127.0.0.1', 50629)
+2026-11-03 14:00:21,642 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:21,647 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:25,316 [server_B] INFO: New connection from ('127.0.0.1', 50643)
+2026-11-03 14:00:26,650 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:26,652 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:30,320 [server_B] INFO: New connection from ('127.0.0.1', 50654)
+2026-11-03 14:00:31,654 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:31,657 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:35,330 [server_B] INFO: New connection from ('127.0.0.1', 50679)
+2026-11-03 14:00:36,660 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:36,661 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:40,333 [server_B] INFO: New connection from ('127.0.0.1', 50692)
+2026-11-03 14:00:41,663 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:41,665 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:45,336 [server_B] INFO: New connection from ('127.0.0.1', 50702)
+2026-11-03 14:00:46,667 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:46,669 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:50,341 [server_B] INFO: New connection from ('127.0.0.1', 50714)
+2026-11-03 14:00:51,671 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:51,674 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:00:55,343 [server_B] INFO: New connection from ('127.0.0.1', 50727)
+2026-11-03 14:00:56,677 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:00:56,678 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:00,346 [server_B] INFO: New connection from ('127.0.0.1', 50735)
+2026-11-03 14:01:01,681 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:01,694 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:05,352 [server_B] INFO: New connection from ('127.0.0.1', 50743)
+2026-11-03 14:01:06,699 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:06,703 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:10,362 [server_B] INFO: New connection from ('127.0.0.1', 50751)
+2026-11-03 14:01:11,707 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:11,709 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:15,369 [server_B] INFO: New connection from ('127.0.0.1', 50758)
+2026-11-03 14:01:16,712 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:16,714 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:20,381 [server_B] INFO: New connection from ('127.0.0.1', 50766)
+2026-11-03 14:01:21,724 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:21,727 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:25,394 [server_B] INFO: New connection from ('127.0.0.1', 50775)
+2026-11-03 14:01:26,729 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:26,731 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:30,406 [server_B] INFO: New connection from ('127.0.0.1', 50784)
+2026-11-03 14:01:31,737 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:31,741 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:35,412 [server_B] INFO: New connection from ('127.0.0.1', 50797)
+2026-11-03 14:01:36,743 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:36,744 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:40,421 [server_B] INFO: New connection from ('127.0.0.1', 50806)
+2026-11-03 14:01:41,751 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:41,755 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:45,426 [server_B] INFO: New connection from ('127.0.0.1', 50814)
+2026-11-03 14:01:46,759 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:46,767 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:50,442 [server_B] INFO: New connection from ('127.0.0.1', 50823)
+2026-11-03 14:01:51,772 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:51,774 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:01:55,451 [server_B] INFO: New connection from ('127.0.0.1', 50833)
+2026-11-03 14:01:56,775 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:01:56,779 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:00,457 [server_B] INFO: New connection from ('127.0.0.1', 50841)
+2026-11-03 14:02:01,781 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:01,784 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:05,470 [server_B] INFO: New connection from ('127.0.0.1', 50850)
+2026-11-03 14:02:06,786 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:06,789 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:10,476 [server_B] INFO: New connection from ('127.0.0.1', 50862)
+2026-11-03 14:02:11,792 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:11,794 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:15,480 [server_B] INFO: New connection from ('127.0.0.1', 50872)
+2026-11-03 14:02:16,795 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:16,796 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:20,483 [server_B] INFO: New connection from ('127.0.0.1', 50880)
+2026-11-03 14:02:21,797 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:21,798 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:25,486 [server_B] INFO: New connection from ('127.0.0.1', 50888)
+2026-11-03 14:02:26,799 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:26,800 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:30,492 [server_B] INFO: New connection from ('127.0.0.1', 50897)
+2026-11-03 14:02:31,808 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:31,815 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:35,498 [server_B] INFO: New connection from ('127.0.0.1', 50905)
+2026-11-03 14:02:36,817 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:36,821 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:40,501 [server_B] INFO: New connection from ('127.0.0.1', 50916)
+2026-11-03 14:02:41,823 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:41,824 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:45,507 [server_B] INFO: New connection from ('127.0.0.1', 50926)
+2026-11-03 14:02:46,827 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:46,831 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:50,514 [server_B] INFO: New connection from ('127.0.0.1', 50935)
+2026-11-03 14:02:51,834 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:51,837 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:02:55,519 [server_B] INFO: New connection from ('127.0.0.1', 50949)
+2026-11-03 14:02:56,839 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:02:56,842 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:00,524 [server_B] INFO: New connection from ('127.0.0.1', 50963)
+2026-11-03 14:03:01,843 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:01,845 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:05,526 [server_B] INFO: New connection from ('127.0.0.1', 50981)
+2026-11-03 14:03:06,848 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:06,849 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:10,533 [server_B] INFO: New connection from ('127.0.0.1', 50990)
+2026-11-03 14:03:11,851 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:11,853 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:15,552 [server_B] INFO: New connection from ('127.0.0.1', 51000)
+2026-11-03 14:03:16,855 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:16,857 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:20,564 [server_B] INFO: New connection from ('127.0.0.1', 51010)
+2026-11-03 14:03:21,860 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:21,866 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:25,571 [server_B] INFO: New connection from ('127.0.0.1', 51020)
+2026-11-03 14:03:26,869 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:26,874 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:30,576 [server_B] INFO: New connection from ('127.0.0.1', 51032)
+2026-11-03 14:03:31,881 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:31,887 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:35,588 [server_B] INFO: New connection from ('127.0.0.1', 51040)
+2026-11-03 14:03:36,895 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:36,898 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:40,603 [server_B] INFO: New connection from ('127.0.0.1', 51050)
+2026-11-03 14:03:41,900 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:41,903 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:45,609 [server_B] INFO: New connection from ('127.0.0.1', 51063)
+2026-11-03 14:03:46,910 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:46,913 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:50,612 [server_B] INFO: New connection from ('127.0.0.1', 51072)
+2026-11-03 14:03:51,916 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:51,917 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:03:55,615 [server_B] INFO: New connection from ('127.0.0.1', 51081)
+2026-11-03 14:03:56,919 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:03:56,922 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:00,618 [server_B] INFO: New connection from ('127.0.0.1', 51089)
+2026-11-03 14:04:01,925 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:01,926 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:05,625 [server_B] INFO: New connection from ('127.0.0.1', 51097)
+2026-11-03 14:04:06,928 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:06,929 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:10,628 [server_B] INFO: New connection from ('127.0.0.1', 51106)
+2026-11-03 14:04:11,932 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:11,933 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:15,631 [server_B] INFO: New connection from ('127.0.0.1', 51114)
+2026-11-03 14:04:16,936 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:16,941 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:20,640 [server_B] INFO: New connection from ('127.0.0.1', 51122)
+2026-11-03 14:04:21,942 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:21,943 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:25,647 [server_B] INFO: New connection from ('127.0.0.1', 51131)
+2026-11-03 14:04:26,945 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:26,953 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:30,656 [server_B] INFO: New connection from ('127.0.0.1', 51147)
+2026-11-03 14:04:31,961 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:31,970 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:35,662 [server_B] INFO: New connection from ('127.0.0.1', 51158)
+2026-11-03 14:04:36,973 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:36,975 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:40,667 [server_B] INFO: New connection from ('127.0.0.1', 51173)
+2026-11-03 14:04:41,976 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:41,977 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:45,673 [server_B] INFO: New connection from ('127.0.0.1', 51183)
+2026-11-03 14:04:46,982 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:46,985 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:50,676 [server_B] INFO: New connection from ('127.0.0.1', 51195)
+2026-11-03 14:04:51,989 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:51,993 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:04:55,691 [server_B] INFO: New connection from ('127.0.0.1', 51203)
+2026-11-03 14:04:57,004 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:04:57,006 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:00,696 [server_B] INFO: New connection from ('127.0.0.1', 51211)
+2026-11-03 14:05:02,014 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:02,018 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:05,700 [server_B] INFO: New connection from ('127.0.0.1', 51219)
+2026-11-03 14:05:07,022 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:07,032 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:10,703 [server_B] INFO: New connection from ('127.0.0.1', 51227)
+2026-11-03 14:05:12,034 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:12,036 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:15,710 [server_B] INFO: New connection from ('127.0.0.1', 51244)
+2026-11-03 14:05:17,037 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:17,066 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:20,731 [server_B] INFO: New connection from ('127.0.0.1', 51267)
+2026-11-03 14:05:22,080 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:22,081 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:25,735 [server_B] INFO: New connection from ('127.0.0.1', 51280)
+2026-11-03 14:05:27,083 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:27,084 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:30,745 [server_B] INFO: New connection from ('127.0.0.1', 51291)
+2026-11-03 14:05:32,085 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:32,092 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:35,760 [server_B] INFO: New connection from ('127.0.0.1', 51304)
+2026-11-03 14:05:37,094 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:37,095 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:40,763 [server_B] INFO: New connection from ('127.0.0.1', 51313)
+2026-11-03 14:05:42,099 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:42,100 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:45,776 [server_B] INFO: New connection from ('127.0.0.1', 51323)
+2026-11-03 14:05:47,107 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:47,110 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:50,780 [server_B] INFO: New connection from ('127.0.0.1', 51332)
+2026-11-03 14:05:52,112 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:52,113 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:05:55,788 [server_B] INFO: New connection from ('127.0.0.1', 51348)
+2026-11-03 14:05:57,120 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:05:57,124 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:00,796 [server_B] INFO: New connection from ('127.0.0.1', 51359)
+2026-11-03 14:06:02,127 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:02,133 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:05,807 [server_B] INFO: New connection from ('127.0.0.1', 51368)
+2026-11-03 14:06:07,135 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:07,136 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:10,843 [server_B] INFO: New connection from ('127.0.0.1', 51377)
+2026-11-03 14:06:12,140 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:12,141 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:15,850 [server_B] INFO: New connection from ('127.0.0.1', 51386)
+2026-11-03 14:06:17,142 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:17,158 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:20,855 [server_B] INFO: New connection from ('127.0.0.1', 51396)
+2026-11-03 14:06:22,172 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:22,173 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:25,859 [server_B] INFO: New connection from ('127.0.0.1', 51408)
+2026-11-03 14:06:27,179 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:27,185 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:30,870 [server_B] INFO: New connection from ('127.0.0.1', 51417)
+2026-11-03 14:06:32,198 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:32,202 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:35,877 [server_B] INFO: New connection from ('127.0.0.1', 51431)
+2026-11-03 14:06:37,204 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:37,205 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:40,882 [server_B] INFO: New connection from ('127.0.0.1', 51441)
+2026-11-03 14:06:42,211 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:42,214 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:45,887 [server_B] INFO: New connection from ('127.0.0.1', 51449)
+2026-11-03 14:06:47,215 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:47,216 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:50,902 [server_B] INFO: New connection from ('127.0.0.1', 51458)
+2026-11-03 14:06:52,218 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:52,219 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:06:55,911 [server_B] INFO: New connection from ('127.0.0.1', 51470)
+2026-11-03 14:06:57,229 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:06:57,234 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:00,917 [server_B] INFO: New connection from ('127.0.0.1', 51478)
+2026-11-03 14:07:02,239 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:02,242 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:05,933 [server_B] INFO: New connection from ('127.0.0.1', 51487)
+2026-11-03 14:07:07,244 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:07,250 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:10,945 [server_B] INFO: New connection from ('127.0.0.1', 51496)
+2026-11-03 14:07:12,258 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:12,259 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:15,955 [server_B] INFO: New connection from ('127.0.0.1', 51506)
+2026-11-03 14:07:17,260 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:17,262 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:20,959 [server_B] INFO: New connection from ('127.0.0.1', 51514)
+2026-11-03 14:07:22,264 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:22,271 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:25,972 [server_B] INFO: New connection from ('127.0.0.1', 51524)
+2026-11-03 14:07:27,273 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:27,274 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:30,975 [server_B] INFO: New connection from ('127.0.0.1', 51539)
+2026-11-03 14:07:32,276 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:32,278 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:35,978 [server_B] INFO: New connection from ('127.0.0.1', 51551)
+2026-11-03 14:07:37,284 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:37,289 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:41,005 [server_B] INFO: New connection from ('127.0.0.1', 51560)
+2026-11-03 14:07:42,292 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:42,299 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:46,008 [server_B] INFO: New connection from ('127.0.0.1', 51574)
+2026-11-03 14:07:47,302 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:47,307 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:51,015 [server_B] INFO: New connection from ('127.0.0.1', 51583)
+2026-11-03 14:07:52,308 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:52,316 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:07:56,018 [server_B] INFO: New connection from ('127.0.0.1', 51591)
+2026-11-03 14:07:57,318 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:07:57,320 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:01,030 [server_B] INFO: New connection from ('127.0.0.1', 51601)
+2026-11-03 14:08:02,328 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:02,331 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:06,035 [server_B] INFO: New connection from ('127.0.0.1', 51610)
+2026-11-03 14:08:07,333 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:07,335 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:11,051 [server_B] INFO: New connection from ('127.0.0.1', 51618)
+2026-11-03 14:08:12,338 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:12,346 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:16,056 [server_B] INFO: New connection from ('127.0.0.1', 51628)
+2026-11-03 14:08:17,349 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:17,352 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:21,066 [server_B] INFO: New connection from ('127.0.0.1', 51636)
+2026-11-03 14:08:22,361 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:22,367 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:26,081 [server_B] INFO: New connection from ('127.0.0.1', 51648)
+2026-11-03 14:08:27,373 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:27,378 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:31,084 [server_B] INFO: New connection from ('127.0.0.1', 51658)
+2026-11-03 14:08:32,380 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:32,382 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:36,091 [server_B] INFO: New connection from ('127.0.0.1', 51671)
+2026-11-03 14:08:37,387 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:37,397 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:41,093 [server_B] INFO: New connection from ('127.0.0.1', 51683)
+2026-11-03 14:08:42,405 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:42,424 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:46,105 [server_B] INFO: New connection from ('127.0.0.1', 51692)
+2026-11-03 14:08:47,429 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:47,430 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:51,124 [server_B] INFO: New connection from ('127.0.0.1', 51702)
+2026-11-03 14:08:52,434 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:52,438 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:08:56,128 [server_B] INFO: New connection from ('127.0.0.1', 51714)
+2026-11-03 14:08:57,441 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:08:57,477 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:01,143 [server_B] INFO: New connection from ('127.0.0.1', 51725)
+2026-11-03 14:09:02,483 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:02,486 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:06,154 [server_B] INFO: New connection from ('127.0.0.1', 51734)
+2026-11-03 14:09:07,492 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:07,493 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:11,159 [server_B] INFO: New connection from ('127.0.0.1', 51742)
+2026-11-03 14:09:12,500 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:12,503 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:16,166 [server_B] INFO: New connection from ('127.0.0.1', 51752)
+2026-11-03 14:09:17,506 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:17,508 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:21,169 [server_B] INFO: New connection from ('127.0.0.1', 51760)
+2026-11-03 14:09:22,513 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:22,517 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:26,234 [server_B] INFO: New connection from ('127.0.0.1', 51769)
+2026-11-03 14:09:27,519 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:27,520 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:31,247 [server_B] INFO: New connection from ('127.0.0.1', 51778)
+2026-11-03 14:09:32,521 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:32,529 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:36,255 [server_B] INFO: New connection from ('127.0.0.1', 51787)
+2026-11-03 14:09:37,550 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:37,564 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:41,264 [server_B] INFO: New connection from ('127.0.0.1', 51794)
+2026-11-03 14:09:42,570 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:42,571 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:46,269 [server_B] INFO: New connection from ('127.0.0.1', 51803)
+2026-11-03 14:09:47,576 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:47,577 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:51,281 [server_B] INFO: New connection from ('127.0.0.1', 51812)
+2026-11-03 14:09:52,580 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:52,581 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:09:56,286 [server_B] INFO: New connection from ('127.0.0.1', 51820)
+2026-11-03 14:09:57,583 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:09:57,584 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:01,294 [server_B] INFO: New connection from ('127.0.0.1', 51829)
+2026-11-03 14:10:02,591 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:02,612 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:06,298 [server_B] INFO: New connection from ('127.0.0.1', 51837)
+2026-11-03 14:10:07,614 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:07,615 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:11,311 [server_B] INFO: New connection from ('127.0.0.1', 51845)
+2026-11-03 14:10:12,625 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:12,629 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:16,324 [server_B] INFO: New connection from ('127.0.0.1', 51853)
+2026-11-03 14:10:17,630 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:17,634 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:21,348 [server_B] INFO: New connection from ('127.0.0.1', 51861)
+2026-11-03 14:10:22,636 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:22,638 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:26,356 [server_B] INFO: New connection from ('127.0.0.1', 51869)
+2026-11-03 14:10:27,641 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:27,643 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:31,361 [server_B] INFO: New connection from ('127.0.0.1', 51878)
+2026-11-03 14:10:32,645 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:32,658 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:36,418 [server_B] INFO: New connection from ('127.0.0.1', 51888)
+2026-11-03 14:10:37,669 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:37,677 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:41,422 [server_B] INFO: New connection from ('127.0.0.1', 51898)
+2026-11-03 14:10:42,688 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:42,693 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:46,424 [server_B] INFO: New connection from ('127.0.0.1', 51907)
+2026-11-03 14:10:47,705 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:47,725 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:51,432 [server_B] INFO: New connection from ('127.0.0.1', 51915)
+2026-11-03 14:10:52,733 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:52,735 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:10:56,440 [server_B] INFO: New connection from ('127.0.0.1', 51923)
+2026-11-03 14:10:57,737 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:10:57,738 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:01,449 [server_B] INFO: New connection from ('127.0.0.1', 51931)
+2026-11-03 14:11:02,751 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:02,776 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:06,452 [server_B] INFO: New connection from ('127.0.0.1', 51939)
+2026-11-03 14:11:07,781 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:07,782 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:11,461 [server_B] INFO: New connection from ('127.0.0.1', 51947)
+2026-11-03 14:11:12,783 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:12,798 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:16,465 [server_B] INFO: New connection from ('127.0.0.1', 51955)
+2026-11-03 14:11:17,801 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:17,802 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:21,468 [server_B] INFO: New connection from ('127.0.0.1', 51964)
+2026-11-03 14:11:22,807 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:22,811 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:26,477 [server_B] INFO: New connection from ('127.0.0.1', 51980)
+2026-11-03 14:11:27,813 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:27,816 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:31,482 [server_B] INFO: New connection from ('127.0.0.1', 51989)
+2026-11-03 14:11:32,821 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:32,825 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:36,487 [server_B] INFO: New connection from ('127.0.0.1', 52001)
+2026-11-03 14:11:37,827 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:37,831 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:41,490 [server_B] INFO: New connection from ('127.0.0.1', 52009)
+2026-11-03 14:11:42,835 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:42,836 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:46,493 [server_B] INFO: New connection from ('127.0.0.1', 52017)
+2026-11-03 14:11:47,837 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:47,838 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:51,496 [server_B] INFO: New connection from ('127.0.0.1', 52025)
+2026-11-03 14:11:52,839 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:52,840 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:11:56,502 [server_B] INFO: New connection from ('127.0.0.1', 52033)
+2026-11-03 14:11:57,841 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:11:57,856 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:12:01,505 [server_B] INFO: New connection from ('127.0.0.1', 52045)
+2026-11-03 14:12:02,857 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:12:02,860 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:12:06,509 [server_B] INFO: New connection from ('127.0.0.1', 52062)
+2026-11-03 14:12:07,871 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:12:07,875 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:12:11,519 [server_B] INFO: New connection from ('127.0.0.1', 52073)
+2026-11-03 14:12:12,883 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:12:12,888 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:12:16,521 [server_B] INFO: New connection from ('127.0.0.1', 52081)
+2026-11-03 14:12:17,891 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:12:17,901 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:12:21,524 [server_B] INFO: New connection from ('127.0.0.1', 52089)
+2026-11-03 14:12:22,905 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:12:22,907 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:12:26,533 [server_B] INFO: New connection from ('127.0.0.1', 52099)
+2026-11-03 14:12:27,913 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:12:27,914 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:12:31,537 [server_B] INFO: New connection from ('127.0.0.1', 52114)
+2026-11-03 14:12:32,915 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:12:32,917 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:12:36,541 [server_B] INFO: New connection from ('127.0.0.1', 52123)
+2026-11-03 14:12:37,918 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:12:37,920 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:12:41,545 [server_B] INFO: New connection from ('127.0.0.1', 52131)
+2026-11-03 14:12:42,923 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:12:42,925 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
+2026-11-03 14:12:46,550 [server_B] INFO: New connection from ('127.0.0.1', 52140)
+2026-11-03 14:12:47,927 [server_B] INFO: Connected to peer 127.0.0.1:9001
+2026-11-03 14:12:47,928 [server_B] WARNING: Peer 127.0.0.1:9001 disconnected
